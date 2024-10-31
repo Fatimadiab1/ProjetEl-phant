@@ -52,18 +52,23 @@
       border-radius: 50px 50px 0 0; 
       background-color: rgb(255, 255, 255);
        position: relative;
-       top: 300px;
+       top: 185px;
       
     }
     a{
         text-decoration: none;
+        color: black;
 
+    }
+    a:hover{
+        color: white;
     }
   </style>
 </head>
 <body>
 
   <div class="ba">
+      <h2 style="text-align: center;color:orangered ;padding-top:50px ; font-size:45px"><b>Joueurs </b></h2>
     <h1>EQUIPE</h1>
   </div>
 
@@ -82,7 +87,7 @@
      <div class="gardien" style=" display: flex; justify-content: center; padding-top: 30px; padding-top: 30px;">
       <div class="">
         <img src="img/maillot.png" alt="" style="height: 100px; width: 140px; ">
-      <p style="text-align: center;"><b>Y.FOFANA</b></p>
+      <p style="text-align: center;"><a href=""style="text-decoration: none;"><b>Y.FOFANA</b></a></p>
       </div>
      </div>
 
@@ -91,22 +96,22 @@
 
       <div class="">
         <img src="img/maillot.png" alt="" style="height: 100px; width: 140px; ">
-      <p style="text-align: center;"><b>AURIER</b></p>
+      <p style="text-align: center;"><a href="" style="text-decoration: none;"><b>AURIER</b></a></p>
       </div>
 
       <div class="">
         <img src="img/maillot.png" alt="" style="height: 100px; width: 140px; ">
-      <p style="text-align: center;"><b>NDICKA</b></p>
+      <p style="text-align: center;"><a href="" style="text-decoration: none;"><b>NDICKA</b></a></p>
       </div>
 
       <div class="">
         <img src="img/maillot.png" alt="" style="height: 100px; width: 140px; ">
-      <p style="text-align: center;"><a href=""><b>KOSSOUNOU</b></a></p>
+      <p style="text-align: center;"><a href="" style="text-decoration: none;"><b>KOSSOUNOU</b></a></p>
       </div>
 
       <div class="">
         <img src="img/maillot.png" alt="" style="height: 100px; width: 140px; ">
-      <p style="text-align: center;"><a href=""><b>KONAN</b></a></p>
+      <p style="text-align: center;"><a href="" style="text-decoration: none;"><b>KONAN</b></a></p>
       </div>
 
     </div>
@@ -115,7 +120,7 @@
     <div class="mdf" style="display: flex; justify-content: center; padding-top: 55px;">
       <div class="">
         <img src="img/maillot.png" alt="" style="height: 100px; width: 140px; ">
-      <p style="text-align: center;"><a href=""><b>SERI</b></a></p>
+      <p style="text-align: center;"><a href="" style="text-decoration: none;"><b>SERI</b></a></p>
       </div>
 
     </div>
@@ -124,12 +129,12 @@
     <div class="center" style="display: flex;justify-content: space-evenly;">
         <div class="">
         <img src="img/maillot.png" alt="" style="height: 100px; width: 140px; ">
-        <p style="text-align: center;"><a href=""><b>S.FOFANA</b></a></p>
+        <p style="text-align: center;"><a href="" style="text-decoration: none;"><b>S.FOFANA</b></a></p>
         </div>
 
         <div class="">
           <img src="img/maillot.png" alt="" style="height: 100px; width: 140px; ">
-        <p style="text-align: center;"><a href=""><b>SANGARE</b></a></p>
+        <p style="text-align: center;"><a href="" style="text-decoration: none;"><b>SANGARE</b></a></p>
         </div>
     </div>
 
@@ -137,17 +142,17 @@
     <div class="center" style="display: flex;justify-content: space-around; padding-top: 25px; text-align: center;">
       <div class="">
       <img src="img/maillot.png" alt="" style="height: 100px; width: 140px; ">
-      <p style="text-align: center;"><a href=""><b>ADINGRA</b></a></p>
+      <p style="text-align: center;"><a href="" style="text-decoration: none;"><b>ADINGRA</b></a></p>
       </div>
 
       <div class="">
         <img src="img/maillot.png" alt="" style="height: 180px; width: 140px;  padding-top: 75px;">
-      <p style="text-align: center;"><a href=""><b>KRASSO</b></a></p>
+      <p style="text-align: center;"><a href="" style="text-decoration: none;"><b>KRASSO</b></a></p>
       </div>
 
       <div class="">
         <img src="img/maillot.png" alt="" style="height: 100px; width: 140px; ">
-      <p style="text-align: center;"><a href=""><b>DIAKITE</b></a></p>
+      <p style="text-align: center;"><a href="" style="text-decoration: none;"><b>DIAKITE</b></a></p>
       </div>
       
   </div>
