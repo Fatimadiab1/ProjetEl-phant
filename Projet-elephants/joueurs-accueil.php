@@ -137,7 +137,7 @@
       </div>
 
       <div class="">
-        <img src="img/maillot.png" alt="" style="height: 100px; width: 140px;  padding-top: 75px;">
+        <img src="img/maillot.png" alt="" style="height: 180px; width: 140px;  padding-top: 75px;">
       <p style="text-align: center;"><b>KRASSO</b></p>
       </div>
 
