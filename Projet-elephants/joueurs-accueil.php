@@ -55,6 +55,10 @@
        top: 300px;
       
     }
+    a{
+        text-decoration: none;
+
+    }
   </style>
 </head>
 <body>
@@ -97,12 +101,12 @@
 
       <div class="">
         <img src="img/maillot.png" alt="" style="height: 100px; width: 140px; ">
-      <p style="text-align: center;"><b>KOSSOUNOU</b></p>
+      <p style="text-align: center;"><a href=""><b>KOSSOUNOU</b></a></p>
       </div>
 
       <div class="">
         <img src="img/maillot.png" alt="" style="height: 100px; width: 140px; ">
-      <p style="text-align: center;"><b>KONAN</b></p>
+      <p style="text-align: center;"><a href=""><b>KONAN</b></a></p>
       </div>
 
     </div>
@@ -111,7 +115,7 @@
     <div class="mdf" style="display: flex; justify-content: center; padding-top: 55px;">
       <div class="">
         <img src="img/maillot.png" alt="" style="height: 100px; width: 140px; ">
-      <p style="text-align: center;"><b>SERI</b></p>
+      <p style="text-align: center;"><a href=""><b>SERI</b></a></p>
       </div>
 
     </div>
@@ -120,12 +124,12 @@
     <div class="center" style="display: flex;justify-content: space-evenly;">
         <div class="">
         <img src="img/maillot.png" alt="" style="height: 100px; width: 140px; ">
-        <p style="text-align: center;"><b>S.FOFANA</b></p>
+        <p style="text-align: center;"><a href=""><b>S.FOFANA</b></a></p>
         </div>
 
         <div class="">
           <img src="img/maillot.png" alt="" style="height: 100px; width: 140px; ">
-        <p style="text-align: center;"><b>SANGARE</b></p>
+        <p style="text-align: center;"><a href=""><b>SANGARE</b></a></p>
         </div>
     </div>
 
@@ -133,17 +137,17 @@
     <div class="center" style="display: flex;justify-content: space-around; padding-top: 25px; text-align: center;">
       <div class="">
       <img src="img/maillot.png" alt="" style="height: 100px; width: 140px; ">
-      <p style="text-align: center;"><b>ADINGRA</b></p>
+      <p style="text-align: center;"><a href=""><b>ADINGRA</b></a></p>
       </div>
 
       <div class="">
         <img src="img/maillot.png" alt="" style="height: 180px; width: 140px;  padding-top: 75px;">
-      <p style="text-align: center;"><b>KRASSO</b></p>
+      <p style="text-align: center;"><a href=""><b>KRASSO</b></a></p>
       </div>
 
       <div class="">
         <img src="img/maillot.png" alt="" style="height: 100px; width: 140px; ">
-      <p style="text-align: center;"><b>DIAKITE</b></p>
+      <p style="text-align: center;"><a href=""><b>DIAKITE</b></a></p>
       </div>
       
   </div>
