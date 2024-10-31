@@ -81,5 +81,11 @@
   AOS.init();
 </script>
 
+<script>
+  Fancybox.bind("[data-fancybox]", {
+    // Your custom options
+  });
+</script>
+
 
 </html>

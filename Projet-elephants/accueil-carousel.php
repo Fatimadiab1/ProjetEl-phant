@@ -62,42 +62,42 @@
   <swiper-container class="mySwiper" slides-per-view="3" centered-slides="true" space-between="30" pagination="true"
       pagination-type="fraction" navigation="true" style="margin-top: 40px;margin-bottom:40px;">
       <swiper-slide>
-          <a href="img/elephants1.jpg" data-fancybox="gallery" data-caption="Single image">
+          <a href="img/elephants1.jpg" data-fancybox data-caption="Can 2023 // Ivoirien">
               <img src="img/elephants1.jpg" alt="">
           </a>
           <!-- <img src="img/elephants1.jpg" alt=""> -->
       </swiper-slide>
 
       <swiper-slide>
-          <a href="img/elephants2.jpg" data-fancybox data-caption="Single image">
+          <a href="img/elephants2.jpg" data-fancybox data-caption="Can 2023 // Ivoirien">
               <img src="img/elephants2.jpg" alt="">
           </a>
           <!-- <img src="img/elephants1.jpg" alt=""> -->
       </swiper-slide>
 
       <swiper-slide>
-          <a href="img/elephants3.jpg" data-fancybox data-caption="Single image">
+          <a href="img/elephants3.jpg" data-fancybox data-caption="Can 2023 // Ivoirien">
               <img src="img/elephants3.jpg" alt="">
           </a>
           <!-- <img src="img/elephants1.jpg" alt=""> -->
       </swiper-slide>
 
       <swiper-slide>
-          <a href="img/elephants4.jpg" data-fancybox data-caption="Single image">
+          <a href="img/elephants4.jpg" data-fancybox data-caption="Can 2023 // Ivoirien">
               <img src="img/elephants4.jpg" alt="">
           </a>
           <!-- <img src="img/elephants1.jpg" alt=""> -->
       </swiper-slide>
 
       <swiper-slide>
-          <a href="img/elephants5.jpg" data-fancybox data-caption="Single image">
+          <a href="img/elephants5.jpg" data-fancybox data-caption="Can 2023 // Ivoirien">
               <img src="img/elephants5.jpg" alt="">
           </a>
           <!-- <img src="img/elephants1.jpg" alt=""> -->
       </swiper-slide>
 
       <swiper-slide>
-          <a href="img/elephants6.jpg" data-fancybox data-caption="Single image">
+          <a href="img/elephants6.jpg" data-fancybox data-caption="Can 2023 // Ivoirien">
               <img src="img/elephants6.jpg" alt="">
           </a>
           <!-- <img src="img/elephants1.jpg" alt=""> -->
