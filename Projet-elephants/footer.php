@@ -62,6 +62,8 @@
 <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 
+<script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0/dist/fancybox/fancybox.umd.js"></script>
+
 <script>
   // use a script tag or an external JS file
   document.addEventListener("DOMContentLoaded", (event) => {
@@ -78,5 +80,6 @@
 <script>
   AOS.init();
 </script>
+
 
 </html>
