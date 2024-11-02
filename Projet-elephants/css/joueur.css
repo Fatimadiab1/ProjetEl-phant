@@ -1,0 +1,233 @@
+/* background en dessous de la nav */
+.background-player {
+    background-image: url('../img/equipeci.jpg');
+    height: 350px;
+    width: auto;
+    background-size: cover;
+    background-position: center;
+}
+
+
+/* la position du joueur */
+.position-player {
+    display: flex;
+    border-radius: 40px;
+    background-color: white;
+    width: 85%;
+    padding: 40px;
+    margin: auto;
+    margin-top: -110px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.titre-position {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 900;
+    color: orangered;
+}
+
+/* Première section */
+.pic {
+    width: 320px;
+}
+
+.info-player {
+    padding-top: 3px; 
+}
+
+.firstsection-player {
+    display: flex;
+    align-items: flex-start; 
+    justify-content: space-evenly;
+}
+
+.name {
+    font-family: "Montserrat", sans-serif;
+    color: rgb(0, 56, 0);
+    font-weight: 700;
+    font-size: 45px;
+}
+
+.description {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 700;
+    font-size: 17px;
+}
+
+/* Deuxieme section */
+.secondsection-player{
+    margin-top: 150px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: space-evenly;
+}
+.titre-palmares{
+color: orangered;
+font-family: "Montserrat", sans-serif;
+font-weight: 700;
+}
+.nbr{
+    color: rgb(0, 56, 0);
+    text-align: center;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 900;
+    font-size:60px ;
+}
+    .saison {
+    color: orangered;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 700;
+    }
+    span{
+        color: rgb(0, 56, 0);
+        font-size:40px;
+        font-weight: 900;
+    }
+   /* Troisieme section */
+.newstitle{
+    font-family: "Montserrat", sans-serif;
+    font-weight: 700;
+    margin-top: 150px;
+    text-align: center;
+}
+.background-image {
+    width: 100%;
+    height: auto; 
+    display: block;
+}
+
+.thirdsection-player {
+    margin-top:50px;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.image-container {
+    position: relative; 
+    width: 30%; 
+    margin: 10px; 
+    overflow: hidden;
+}
+
+.imgplayer {
+    width: 100%; 
+    height: 500px;
+    object-fit: cover; 
+}
+
+.overlay {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: rgb(255, 161, 117); 
+    color: white;
+
+    padding: 10px;
+}
+
+.overlay-text {
+    margin: 0;
+    font-size:15px;
+    font-weight: 700;
+}
+/* Carrousell */
+.fourthsection-player {
+    margin-top:150px;
+
+}
+swiper-container {
+    width: 100%;
+    height: 100%;
+}
+
+swiper-slide {
+    text-align: center;
+    font-size: 18px;
+    background: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+swiper-slide img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+swiper-container {
+    width: 100%;
+    height: 300px;
+    margin: 20px auto;
+}
+
+.append-buttons {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.append-buttons button {
+    display: inline-block;
+    cursor: pointer;
+    border: 1px solid #007aff;
+    color: #007aff;
+    text-decoration: none;
+    padding: 4px 10px;
+    border-radius: 4px;
+    margin: 0 10px;
+    font-size: 13px;
+}
+/* Responsive */
+@media (max-width: 900px) {
+    /* Premiere section */
+    .firstsection-player {
+        flex-direction: column; 
+        align-items: center; 
+    }
+
+    .pic {
+        max-width: 300px;
+        margin-bottom: 20px; 
+    }
+
+    .name {
+        font-size: 36px; 
+        text-align: center;
+    }
+
+    .description {
+        font-size: 16px; 
+        text-align: center; 
+    }
+    
+    /* Deuxieme section */
+    .secondsection-player {
+        flex-direction: column; 
+        align-items: center; 
+    }
+    .titre-palmares{
+        font-size: 36px;
+        text-align: center;
+    }
+    .nbr{
+        font-size: 40px;
+        text-align: center;
+    }
+ 
+    span{
+        font-size: 24px;
+    }
+
+    /* Troisième section */
+    .image-container {
+        width: 100%; 
+    
+    }
+}
+

@@ -45,7 +45,7 @@
           <a href="#"><i class="fab fa-twitter"></i></a>
           <a href="#"><i class="fab fa-youtube"></i></a>
         </div>
-        <img src="img/FIF_Côte_d'Ivoire_logo.png" alt="Votre image" class="footer-image">
+        <img src="img/FIF_Co╠éte_d'Ivoire_logo.png" alt="Votre image" class="footer-image">
       </div>
     </div>
   </div>
