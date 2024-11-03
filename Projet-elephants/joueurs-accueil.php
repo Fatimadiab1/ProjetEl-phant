@@ -129,7 +129,7 @@
     <div class="center" style="display: flex;justify-content: space-evenly;">
         <div class="">
         <img src="img/maillot.png" alt="" style="height: 100px; width: 140px; ">
-        <p style="text-align: center;"><a href="" style="text-decoration: none;"><b>S.FOFANA</b></a></p>
+        <p style="text-align: center;"><a href="details-seko.php" style="text-decoration: none;"><b>S.FOFANA</b></a></p>
         </div>
 
         <div class="">
