@@ -126,7 +126,7 @@
           <div id="section1" class="collapse">
               <div class="card card-body mb-3">
                   <ul class="list-unstyled text-center" style="color: orangered;">
-                      <li><a href="#">S.HALLER</a></li>
+                      <li><a href="details-sebastien.php">S.HALLER</a></li>
                       <li><a href="#">J.KRASSO</a></li>
                       <li><a href="#">S.ADINGRA</a></li>
                       <li><a href="details-jeremie.php">J.BOGA</a></li>
