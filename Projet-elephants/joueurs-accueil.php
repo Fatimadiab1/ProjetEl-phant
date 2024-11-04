@@ -184,7 +184,7 @@
 </div>
 
   
-<h2 style="font-size: 50px; font-weight:bold; color:orangered; text-align:center">XI de depart</h1>
+<h2 style="font-size: 50px; font-weight:bold; color:orangered; text-align:center">XI de Depart</h1>
 
   <div class="terrain">
    <!-- /* partie gardien */ -->
