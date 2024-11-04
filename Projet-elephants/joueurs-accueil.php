@@ -131,13 +131,13 @@
                       <li><a href="details-simon.php">S.ADINGRA</a></li>
                       <li><a href="details-jeremie.php">J.BOGA</a></li>
                       <li><a href="details-jonathan.php">J.BAMBA</a></li>
-<<<<<<< HEAD
+
                       <li><a href="details-nicolas.php">N.PEPE</a></li>
                       <li><a href="#">K.KONATE</a></li>
-=======
+
                       <li><a href="#">N.PEPE</a></li>
                       <li><a href="details-karim.php">K.KONATE</a></li>
->>>>>>> 49b022b07bf79654af7f202cf4e78524a299d651
+
                       <li><a href="details-max.php">M.GRADEL</a></li>
                       <li><a href="#">O.DIAKITE</a></li>
                       <li><a href="#">K.CHRISTAN</a></li>
