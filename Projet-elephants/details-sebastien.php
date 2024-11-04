@@ -131,7 +131,7 @@
 
         <swiper-slide>
             <a href="img/hallercar6.jpg" data-fancybox data-caption="Can 2023 // Ivoirien">
-                <img src="img/hallecar6.jpg" alt="">
+                <img src="img/hallercar6.jpg" alt="">
             </a>
 
         </swiper-slide>
@@ -140,3 +140,8 @@
 </div>
 <!-- footer -->
 <?php include 'footer.php' ?>
+
+<!-- Javascript -->
+<script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-element-bundle.min.js"></script>
+
+<script src="js/script.js"></script>
