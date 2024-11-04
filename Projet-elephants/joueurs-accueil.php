@@ -131,7 +131,7 @@
                       <li><a href="#">S.ADINGRA</a></li>
                       <li><a href="details-jeremie.php">J.BOGA</a></li>
                       <li><a href="details-jonathan.php">J.BAMBA</a></li>
-                      <li><a href="#">N.PEPE</a></li>
+                      <li><a href="details-nicolas.php">N.PEPE</a></li>
                       <li><a href="#">K.KONATE</a></li>
                       <li><a href="details-max.php">M.GRADEL</a></li>
                       <li><a href="#">O.DIAKITE</a></li>
