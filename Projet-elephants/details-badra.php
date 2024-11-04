@@ -47,20 +47,20 @@
 
     <div class="palmares">
         <h3 class="titre-palmares">MATCHES AVEC <br> LA COTE D'IVOIRE</h3>
-        <p class="nbr">22</p>
-        <p class="saison">SAISON 2024/2025 <span>06</span></p>
+        <p class="nbr">31</p>
+        <p class="saison">SAISON 2024/2025 <span>00</span></p>
     </div>
 
     <div class="palmares">
         <h3 class="titre-palmares">BUTS AVEC LA <br>COTE D'IVOIRE</h3>
         <p class="nbr">00</p>
-        <p class="saison">SAISON 2024/2025<span>02</span></p>
+        <p class="saison">SAISON 2024/2025<span>00</span></p>
     </div>
 
     <div class="palmares">
         <h3 class="titre-palmares">PASSES DECISIVES AVEC <br> LA COTE D'IVOIRE</h3>
         <p class="nbr">00</p>
-        <p class="saison">SAISON 2024/2025 <span>05</span></p>
+        <p class="saison">SAISON 2024/2025 <span>00</span></p>
     </div>
 
 </div>
@@ -72,23 +72,23 @@
 <div class="thirdsection-player">
 
     <div class="image-container">
-        <img src="img/sekofofanapic1.jpg" alt="Image seko fofana" class="imgplayer">
+        <img src="img/badra_0.jpeg" alt="Image badra ali" class="imgplayer">
         <div class="overlay">
-            <h2 class="overlay-text">Seko Fofana a quitté le RC Lens pour rejoindre Al-Nassr FC en août 2023, où il a ensuite été prêté à Al-Ettifaq FC.</h2>
+            <h2 class="overlay-text">Côte d’Ivoire-Algérie: Beaumelle renouvelle sa confiance à Badra Ali</h2>
         </div>
     </div>
 
     <div class="image-container">
-        <img src="img/sekofofanapic2.jpg" alt="Image seko fofana" class="imgplayer">
+        <img src="img/badra3.webp" alt="Image badra ali" class="imgplayer">
         <div class="overlay">
-            <h2 class="overlay-text"> Lors de la Coupe d'Afrique des Nations 2024, il a marqué des buts clés et a aidé la Côte d'Ivoire à atteindre les demi-finales.</h2>
+            <h2 class="overlay-text"> Le gardien de but ivoirien, Sangaré Ali Badra, dément sa retraite internationale et met en garde.</h2>
         </div>
     </div>
 
     <div class="image-container">
-        <img src="img/sekofofanapic3.jpg" alt="Image seko fofana" class="imgplayer">
+        <img src="img/badra_1.webp" alt="Image badra ali" class="imgplayer">
         <div class="overlay">
-            <h2 class="overlay-text">Son retour en équipe nationale a eu un impact positif, renforçant l'équipe et inspirant ses coéquipiers pendant la compétition.</h2>
+            <h2 class="overlay-text">Badra Ali Sangaré rejoint un club de 1ère division en Afrique du Sud !</h2>
         </div>
     </div>
 
@@ -126,19 +126,9 @@
 
         </swiper-slide>
 
-        <swiper-slide>
-            <a href="img/seko5.jpg" data-fancybox data-caption="Can 2023 // Ivoirien">
-                <img src="img/seko5.jpg" alt="">
-            </a>
 
-        </swiper-slide>
 
-        <swiper-slide>
-            <a href="img/seko6.jpg" data-fancybox data-caption="Can 2023 // Ivoirien">
-                <img src="img/seko6.jpg" alt="">
-            </a>
 
-        </swiper-slide>
 
     </swiper-container>
 </div>
