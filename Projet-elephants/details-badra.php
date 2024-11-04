@@ -16,7 +16,11 @@
 <div class="firstsection-player">
 
     <div class="picture-player">
+<<<<<<< HEAD
         <img class="pic" src="img/badra0.jpg" alt="">
+=======
+        <img class="pic" src="img/badra1.png" alt="">
+>>>>>>> 029baee00feca4081d328fb6bd2ad6b8f0145999
     </div>
 
     <div class="info-player">
