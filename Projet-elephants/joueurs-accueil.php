@@ -110,75 +110,12 @@
 
    
   
-  <div class="containerr mt-5">
-    <div class="text-center mb-4 d-flex flex-wrap justify-content-around" style="width: 100%;">
-      <button class="btn btn-primary m-2" data-toggle="collapse" data-target="#section1" style="font-size: 18px;">ATTAQUANTS</button>
-      <button class="btn btn-secondary m-2" data-toggle="collapse" data-target="#section2" style="font-size: 18px;">MILLIEUX</button>
-      <button class="btn btn-success m-2" data-toggle="collapse" data-target="#section3" style="font-size: 18px;">DÉFENSEURS</button>
-      <button class="btn btn-danger m-2" data-toggle="collapse" data-target="#section4" style="font-size: 18px;">GARDIENS</button>
-  </div>
-  
-   
+  <div  class="buttom" style="display: flex; justify-content: space-evenly; ">
 
-
-    <div class="containerr mt-3">
-      <div class="grid-container">
-          <div id="section1" class="collapse">
-              <div class="card card-body mb-3">
-                  <ul class="list-unstyled text-center" style="color: orangered;">
-                      <li><a href="#">S.HALLER</a></li>
-                      <li><a href="#">J.KRASSO</a></li>
-                      <li><a href="#">S.ADINGRA</a></li>
-                      <li><a href="details-jeremie.php">J.BOGA</a></li>
-                      <li><a href="details-jonathan.php">J.BAMBA</a></li>
-                      <li><a href="#">N.PEPE</a></li>
-                      <li><a href="#">K.KONATE</a></li>
-                      <li><a href="details-max.php">M.GRADEL</a></li>
-                      <li><a href="#">O.DIAKITE</a></li>
-                      <li><a href="#">K.CHRISTAN</a></li>
-                  </ul>
-              </div>
-          </div>
-  
-          <div id="section2" class="collapse">
-              <div class="card card-body mb-3">
-                  <ul class="list-unstyled text-center" style="color: orangered;">
-                      <li><a href="details-seko.php">S.FOFANA</a></li>
-                      <li><a href="#">J.SERI</a></li>
-                      <li><a href="#">I.DOUMBIA</a></li>
-                      <li><a href="#">I.SANGARE</a></li>
-                      <li><a href="#">F.KESSIE</a></li>
-                      <li><a href="#">L.AMANI</a></li>
-                  </ul>
-              </div>
-          </div>
-  
-          <div id="section3" class="collapse">
-              <div class="card card-body mb-3">
-                  <ul class="list-unstyled text-center " style="color: orangered;">
-                      <li><a href="#">E.N'DICKA</a></li>
-                      <li><a href="#">W.BOLLY</a></li>
-                      <li><a href="#">O.KOSSONOU</a></li>
-                      <li><a href="#">O.DIOMANDE</a></li>
-                      <li><a href="#">W.SINGO</a></li>
-                      <li><a href="#">S.AURIER</a></li>
-                      <li><a href="#">G.KONAN</a></li>
-                      <li><a href="#">I.DIALLO</a></li>
-                  </ul>
-              </div>
-          </div>
-  
-          <div id="section4" class="collapse">
-              <div class="card card-body mb-3">
-                <ul class="list-unstyled text-center " >
-                  <li><a href="#">Y.FOFANA</a></li>
-                  <li><a href="">s.ALI</a></li>
-                  <li><a href="#">C.FOLLY</a></li>
-                
-              </ul>
-              </div>
-          </div>
-      </div>
+    <button><b>GARDIENS</b></button>
+    <button><b>DEFENSEURS</b></button>
+    <button><b>MILLIEUX</b></button>
+    <button><b>ATTAQUANTS</b></button>
   </div>
   
 </div>
@@ -200,7 +137,7 @@
 
       <div class="">
         <img src="img/maillot.png" alt="" style="height: 100px; width: 140px; ">
-      <p style="text-align: center;"><a href="" style="text-decoration: none;"><b>AURIER</b></a></p>
+      <p style="text-align: center;"><a href="details-serge.php" style="text-decoration: none;"><b>AURIER</b></a></p>
       </div>
 
       <div class="">
@@ -246,7 +183,7 @@
     <div class="center" style="display: flex;justify-content: space-around; padding-top: 25px; text-align: center;">
       <div class="">
       <img src="img/maillot.png" alt="" style="height: 100px; width: 140px; ">
-      <p style="text-align: center;"><a href="" style="text-decoration: none;"><b>ADINGRA</b></a></p>
+      <p style="text-align: center;"><a href="details-simon.php" style="text-decoration: none;"><b>ADINGRA</b></a></p>
       </div>
 
       <div class="">
