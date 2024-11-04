@@ -45,20 +45,20 @@
 
     <div class="palmares">
         <h3 class="titre-palmares">MATCHES AVEC <br> LA COTE D'IVOIRE</h3>
-        <p class="nbr">22</p>
-        <p class="saison">SAISON 2024/2025 <span>06</span></p>
+        <p class="nbr">03</p>
+        <p class="saison">SAISON 2024/2025 <span>00</span></p>
     </div>
 
     <div class="palmares">
         <h3 class="titre-palmares">BUTS AVEC LA <br>COTE D'IVOIRE</h3>
-        <p class="nbr">07</p>
-        <p class="saison">SAISON 2024/2025<span>02</span></p>
+        <p class="nbr">00</p>
+        <p class="saison">SAISON 2024/2025<span>00</span></p>
     </div>
 
     <div class="palmares">
         <h3 class="titre-palmares">PASSES DECISIVES AVEC <br> LA COTE D'IVOIRE</h3>
-        <p class="nbr">07</p>
-        <p class="saison">SAISON 2024/2025 <span>05</span></p>
+        <p class="nbr">00</p>
+        <p class="saison">SAISON 2024/2025 <span>00</span></p>
     </div>
 
 </div>
@@ -70,23 +70,23 @@
 <div class="thirdsection-player">
 
     <div class="image-container">
-        <img src="img/sekofofanapic1.jpg" alt="Image seko fofana" class="imgplayer">
+        <img src="img/yahia_0.jpg" alt="Image seko fofana" class="imgplayer">
         <div class="overlay">
-            <h2 class="overlay-text">Seko Fofana a quitté le RC Lens pour rejoindre Al-Nassr FC en août 2023, où il a ensuite été prêté à Al-Ettifaq FC.</h2>
+            <h2 class="overlay-text">Yahia Fofana solide contre le RC Strasbourg</h2>
         </div>
     </div>
 
     <div class="image-container">
-        <img src="img/sekofofanapic2.jpg" alt="Image seko fofana" class="imgplayer">
+        <img src="img/yahia_1.webp" alt="Image seko fofana" class="imgplayer">
         <div class="overlay">
-            <h2 class="overlay-text"> Lors de la Coupe d'Afrique des Nations 2024, il a marqué des buts clés et a aidé la Côte d'Ivoire à atteindre les demi-finales.</h2>
+            <h2 class="overlay-text"> LE CHAMPION D'AFRIQUE YAHIA FOFANA EN LICE POUR LE TITRE DE MEILLEUR GARDIEN DE LIGUE 2 FRANÇAISE</h2>
         </div>
     </div>
 
     <div class="image-container">
-        <img src="img/sekofofanapic3.jpg" alt="Image seko fofana" class="imgplayer">
+        <img src="img/yahia_2.jpeg" alt="Image seko fofana" class="imgplayer">
         <div class="overlay">
-            <h2 class="overlay-text">Son retour en équipe nationale a eu un impact positif, renforçant l'équipe et inspirant ses coéquipiers pendant la compétition.</h2>
+            <h2 class="overlay-text">Eliminatoires Coupe du Monde 2026 : les Éléphants, sauvés par Yahia Fofana, concèdent le nul contre le Kenya</h2>
         </div>
     </div>
 

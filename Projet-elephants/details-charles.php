@@ -45,20 +45,20 @@
 
     <div class="palmares">
         <h3 class="titre-palmares">MATCHES AVEC <br> LA COTE D'IVOIRE</h3>
-        <p class="nbr">22</p>
-        <p class="saison">SAISON 2024/2025 <span>06</span></p>
+        <p class="nbr">08</p>
+        <p class="saison">SAISON 2024/2025 <span>00</span></p>
     </div>
 
     <div class="palmares">
         <h3 class="titre-palmares">BUTS AVEC LA <br>COTE D'IVOIRE</h3>
-        <p class="nbr">07</p>
-        <p class="saison">SAISON 2024/2025<span>02</span></p>
+        <p class="nbr">00</p>
+        <p class="saison">SAISON 2024/2025<span>00</span></p>
     </div>
 
     <div class="palmares">
         <h3 class="titre-palmares">PASSES DECISIVES AVEC <br> LA COTE D'IVOIRE</h3>
-        <p class="nbr">07</p>
-        <p class="saison">SAISON 2024/2025 <span>05</span></p>
+        <p class="nbr">00</p>
+        <p class="saison">SAISON 2024/2025 <span>00</span></p>
     </div>
 
 </div>
@@ -131,12 +131,7 @@
 
         </swiper-slide>
 
-        <swiper-slide>
-            <a href="img/seko6.jpg" data-fancybox data-caption="Can 2023 // Ivoirien">
-                <img src="img/seko6.jpg" alt="">
-            </a>
-
-        </swiper-slide>
+        
 
     </swiper-container>
 </div>
@@ -147,8 +142,5 @@
 <!-- Javascript -->
 <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-element-bundle.min.js"></script>
 
-<<<<<<< HEAD
 <script src="js/script.js"></script>
-=======
-<script src="js/script.js"></script>
->>>>>>> 029baee00feca4081d328fb6bd2ad6b8f0145999
+
