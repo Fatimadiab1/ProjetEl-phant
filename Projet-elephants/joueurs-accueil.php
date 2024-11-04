@@ -63,6 +63,42 @@
     a:hover{
         color: white;
     }
+
+    .btn {
+    transition: transform 0.2s; /* Animation lors du hover */
+}
+
+.btn:hover {
+    transform: scale(1.1); /* Agrandissement au survol */
+}
+
+
+.grid-container {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr); /* 2 colonnes pour les petits écrans */
+            gap: 50px; 
+        }
+
+        @media (min-width: 768px) {
+            .grid-container {
+                grid-template-columns: repeat(3, 1fr); /* 3 colonnes pour les écrans moyens */
+            }
+        }
+
+        @media (min-width: 992px) {
+            .grid-container {
+                grid-template-columns: repeat(4, 1fr); /* 4 colonnes pour les grands écrans */
+            }
+        }
+
+        .grid-container a {
+          text-decoration: none;
+          color: orangered;
+        }
+        .grid-container a:hover{
+          color: gray;
+
+        }
   </style>
 </head>
 <body>
@@ -78,9 +114,14 @@
 
     <button><b>GARDIENS</b></button>
     <button><b>DEFENSEURS</b></button>
-    <button><b>MILIEUX</b></button>
+    <button><b>MILLIEUX</b></button>
     <button><b>ATTAQUANTS</b></button>
   </div>
+  
+</div>
+
+  
+<h2 style="font-size: 50px; font-weight:bold; color:orangered; text-align:center">XI de depart</h1>
 
   <div class="terrain">
    <!-- /* partie gardien */ -->
