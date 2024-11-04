@@ -115,7 +115,7 @@
       <button class="btn btn-primary m-2" data-toggle="collapse" data-target="#section1" style="font-size: 18px;">ATTAQUANTS</button>
       <button class="btn btn-secondary m-2" data-toggle="collapse" data-target="#section2" style="font-size: 18px;">MILLIEUX</button>
       <button class="btn btn-success m-2" data-toggle="collapse" data-target="#section3" style="font-size: 18px;">DÉFENSEURS</button>
-      <button class="btn  m-2" data-toggle="collapse" data-target="#section4" style="font-size: 18px; background-color:brown">GARDIENS</button>
+      <button class="btn btn-danger m-2" data-toggle="collapse" data-target="#section4" style="font-size: 18px; ">GARDIENS</button>
   </div>
   
    

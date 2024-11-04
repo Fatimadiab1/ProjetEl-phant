@@ -16,11 +16,11 @@
 <div class="firstsection-player">
 
     <div class="picture-player">
-        <img class="pic" src="img/Seko_Fofana.jpg" alt="">
+        <img class="pic" src="img/badra1.png" alt="">
     </div>
 
     <div class="info-player">
-        <h2 class="name">Seko <br> FOFANA</h2>
+        <h2 class="name">Badra Ali <br> SANGARÉ</h2>
         <br>
         <p class="description">Badra Ali Sangaré (né le 30 mai 1986 à Bingerville en Côte d'Ivoire) est un<br>
             joueur de football international ivoirien, qui évolue au poste de gardien de but <br>
@@ -99,29 +99,29 @@
     <swiper-container class="mySwiper" slides-per-view="3" centered-slides="true" space-between="30" pagination="true"
         pagination-type="fraction" navigation="true" style="margin-top: 40px;margin-bottom:40px;">
         <swiper-slide>
-            <a href="img/badra1.jpg" data-fancybox data-caption="Can 2023 // Ivoirien">
-                <img src="img/badra1.jpg" alt="">
+            <a href="img/badra1.png" data-fancybox data-caption="Can 2023 // Ivoirien">
+                <img src="img/badra1.png" alt="">
             </a>
 
         </swiper-slide>
 
         <swiper-slide>
-            <a href="img/badra2.jpg" data-fancybox data-caption="Can 2023 // Ivoirien">
-                <img src="img/badra2.jpg" alt="">
+            <a href="img/badra2.jpeg" data-fancybox data-caption="Can 2023 // Ivoirien">
+                <img src="img/badra2.jpeg" alt="">
             </a>
 
         </swiper-slide>
 
         <swiper-slide>
-            <a href="img/badra3.jpg" data-fancybox data-caption="Can 2023 // Ivoirien">
-                <img src="img/badra3.jpg" alt="">
+            <a href="img/badra3.webp" data-fancybox data-caption="Can 2023 // Ivoirien">
+                <img src="img/badra3.webp" alt="">
             </a>
 
         </swiper-slide>
 
         <swiper-slide>
-            <a href="img/badra4.jpg" data-fancybox data-caption="Can 2023 // Ivoirien">
-                <img src="img/badra4.jpg" alt="">
+            <a href="img/badra4.png" data-fancybox data-caption="Can 2023 // Ivoirien">
+                <img src="img/badra4.png" alt="">
             </a>
 
         </swiper-slide>
