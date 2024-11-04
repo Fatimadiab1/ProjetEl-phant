@@ -113,7 +113,7 @@
   <div class="containerr mt-5">
     <div class="text-center mb-4 d-flex flex-wrap justify-content-around" style="width: 100%;">
       <button class="btn btn-primary m-2" data-toggle="collapse" data-target="#section1" style="font-size: 18px;">ATTAQUANTS</button>
-      <button class="btn btn-secondary m-2" data-toggle="collapse" data-target="#section2" style="font-size: 18px;">MILLIEUX</button>
+      <button class="btn btn-secondary m-2" data-toggle="collapse" data-target="#section2" style="font-size: 18px;">MILIEUX</button>
       <button class="btn btn-success m-2" data-toggle="collapse" data-target="#section3" style="font-size: 18px;">DÉFENSEURS</button>
       <button class="btn btn-danger m-2" data-toggle="collapse" data-target="#section4" style="font-size: 18px; ">GARDIENS</button>
   </div>
@@ -171,9 +171,9 @@
           <div id="section4" class="collapse">
               <div class="card card-body mb-3">
                 <ul class="list-unstyled text-center " >
-                  <li><a href="#">Y.FOFANA</a></li>
-                  <li><a href="">s.ALI</a></li>
-                  <li><a href="#">C.FOLLY</a></li>
+                  <li><a href="details-yahia.php">Yahia FOFANA</a></li>
+                  <li><a href="details-badra.php">Badra ALI</a></li>
+                  <li><a href="details-charles.php">Charles FOLLY</a></li>
                 
               </ul>
               </div>
@@ -191,7 +191,7 @@
      <div class="gardien" style=" display: flex; justify-content: center; padding-top: 30px; padding-top: 30px;">
       <div class="">
         <img src="img/maillot.png" alt="" style="height: 100px; width: 140px; ">
-      <p style="text-align: center;"><a href=""style="text-decoration: none;"><b>Y.FOFANA</b></a></p>
+      <p style="text-align: center;"><a href="details-yahia.php"style="text-decoration: none;"><b>Y.FOFANA</b></a></p>
       </div>
      </div>
 

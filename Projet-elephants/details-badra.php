@@ -16,8 +16,9 @@
 <div class="firstsection-player">
 
     <div class="picture-player">
-        <img class="pic" src="img/badra1.png" alt="">
-    </div>
+
+        <img class="pic" src="img/badra0.jpg" alt="">
+
 
     <div class="info-player">
         <h2 class="name">Badra Ali <br> SANGARÉ</h2>

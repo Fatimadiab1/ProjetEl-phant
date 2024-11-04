@@ -147,4 +147,8 @@
 <!-- Javascript -->
 <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-element-bundle.min.js"></script>
 
+<<<<<<< HEAD
 <script src="js/script.js"></script>
+=======
+<script src="js/script.js"></script>
+>>>>>>> 029baee00feca4081d328fb6bd2ad6b8f0145999
