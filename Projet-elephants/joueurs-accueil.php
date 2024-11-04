@@ -129,8 +129,8 @@
                       <li><a href="#">S.HALLER</a></li>
                       <li><a href="#">J.KRASSO</a></li>
                       <li><a href="#">S.ADINGRA</a></li>
-                      <li><a href="#">J.BOGA</a></li>
-                      <li><a href="#">J.BAMBA</a></li>
+                      <li><a href="details-jeremie.php">J.BOGA</a></li>
+                      <li><a href="details-jonathan.php">J.BAMBA</a></li>
                       <li><a href="#">N.PEPE</a></li>
                       <li><a href="#">K.KONATE</a></li>
                       <li><a href="details-max.php">M.GRADEL</a></li>
@@ -172,7 +172,7 @@
               <div class="card card-body mb-3">
                 <ul class="list-unstyled text-center " >
                   <li><a href="#">Y.FOFANA</a></li>
-                  <li><a href="#">s.ALI</a></li>
+                  <li><a href="">s.ALI</a></li>
                   <li><a href="#">C.FOLLY</a></li>
                 
               </ul>
