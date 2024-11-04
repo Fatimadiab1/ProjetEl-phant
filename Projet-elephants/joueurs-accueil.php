@@ -63,6 +63,42 @@
     a:hover{
         color: white;
     }
+
+    .btn {
+    transition: transform 0.2s; /* Animation lors du hover */
+}
+
+.btn:hover {
+    transform: scale(1.1); /* Agrandissement au survol */
+}
+
+
+.grid-container {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr); /* 2 colonnes pour les petits écrans */
+            gap: 50px; 
+        }
+
+        @media (min-width: 768px) {
+            .grid-container {
+                grid-template-columns: repeat(3, 1fr); /* 3 colonnes pour les écrans moyens */
+            }
+        }
+
+        @media (min-width: 992px) {
+            .grid-container {
+                grid-template-columns: repeat(4, 1fr); /* 4 colonnes pour les grands écrans */
+            }
+        }
+
+        .grid-container a {
+          text-decoration: none;
+          color: orangered;
+        }
+        .grid-container a:hover{
+          color: gray;
+
+        }
   </style>
 </head>
 <body>
@@ -74,13 +110,81 @@
 
    
   
-  <div  class="buttom" style="display: flex; justify-content: space-evenly; ">
-
-    <button><b>GARDIENS</b></button>
-    <button><b>DEFENSEURS</b></button>
-    <button><b>MILLIEUX</b></button>
-    <button><b>ATTAQUANTS</b></button>
+  <div class="containerr mt-5">
+    <div class="text-center mb-4 d-flex flex-wrap justify-content-around" style="width: 100%;">
+      <button class="btn btn-primary m-2" data-toggle="collapse" data-target="#section1" style="font-size: 18px;">ATTAQUANTS</button>
+      <button class="btn btn-secondary m-2" data-toggle="collapse" data-target="#section2" style="font-size: 18px;">MILLIEUX</button>
+      <button class="btn btn-success m-2" data-toggle="collapse" data-target="#section3" style="font-size: 18px;">DÉFENSEURS</button>
+      <button class="btn btn-danger m-2" data-toggle="collapse" data-target="#section4" style="font-size: 18px;">GARDIENS</button>
   </div>
+  
+   
+
+
+    <div class="containerr mt-3">
+      <div class="grid-container">
+          <div id="section1" class="collapse">
+              <div class="card card-body mb-3">
+                  <ul class="list-unstyled text-center" style="color: orangered;">
+                      <li><a href="#">S.HALLER</a></li>
+                      <li><a href="#">J.KRASSO</a></li>
+                      <li><a href="#">S.ADINGRA</a></li>
+                      <li><a href="#">J.BOGA</a></li>
+                      <li><a href="#">J.BAMBA</a></li>
+                      <li><a href="#">N.PEPE</a></li>
+                      <li><a href="#">K.KONATE</a></li>
+                      <li><a href="details-max.php">M.GRADEL</a></li>
+                      <li><a href="#">O.DIAKITE</a></li>
+                      <li><a href="#">K.CHRISTAN</a></li>
+                  </ul>
+              </div>
+          </div>
+  
+          <div id="section2" class="collapse">
+              <div class="card card-body mb-3">
+                  <ul class="list-unstyled text-center" style="color: orangered;">
+                      <li><a href="details-seko.php">S.FOFANA</a></li>
+                      <li><a href="#">J.SERI</a></li>
+                      <li><a href="#">I.DOUMBIA</a></li>
+                      <li><a href="#">I.SANGARE</a></li>
+                      <li><a href="#">F.KESSIE</a></li>
+                      <li><a href="#">L.AMANI</a></li>
+                  </ul>
+              </div>
+          </div>
+  
+          <div id="section3" class="collapse">
+              <div class="card card-body mb-3">
+                  <ul class="list-unstyled text-center " style="color: orangered;">
+                      <li><a href="#">E.N'DICKA</a></li>
+                      <li><a href="#">W.BOLLY</a></li>
+                      <li><a href="#">O.KOSSONOU</a></li>
+                      <li><a href="#">O.DIOMANDE</a></li>
+                      <li><a href="#">W.SINGO</a></li>
+                      <li><a href="#">S.AURIER</a></li>
+                      <li><a href="#">G.KONAN</a></li>
+                      <li><a href="#">I.DIALLO</a></li>
+                  </ul>
+              </div>
+          </div>
+  
+          <div id="section4" class="collapse">
+              <div class="card card-body mb-3">
+                <ul class="list-unstyled text-center " >
+                  <li><a href="#">Y.FOFANA</a></li>
+                  <li><a href="#">s.ALI</a></li>
+                  <li><a href="#">C.FOLLY</a></li>
+                
+              </ul>
+              </div>
+          </div>
+      </div>
+  </div>
+  
+</div>
+
+  
+<h2 style="font-size: 50px; font-weight:bold; color:orangered; text-align:center">XI de depart</h1>
 
   <div class="terrain">
    <!-- /* partie gardien */ -->
