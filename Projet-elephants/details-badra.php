@@ -72,21 +72,21 @@
 <div class="thirdsection-player">
 
     <div class="image-container">
-        <img src="img/badra_0.jpeg" alt="Image seko fofana" class="imgplayer">
+        <img src="img/badra_0.jpeg" alt="Image badra ali" class="imgplayer">
         <div class="overlay">
             <h2 class="overlay-text">Côte d’Ivoire-Algérie: Beaumelle renouvelle sa confiance à Badra Ali</h2>
         </div>
     </div>
 
     <div class="image-container">
-        <img src="img/badra3.webp" alt="Image seko fofana" class="imgplayer">
+        <img src="img/badra3.webp" alt="Image badra ali" class="imgplayer">
         <div class="overlay">
             <h2 class="overlay-text"> Le gardien de but ivoirien, Sangaré Ali Badra, dément sa retraite internationale et met en garde.</h2>
         </div>
     </div>
 
     <div class="image-container">
-        <img src="img/badra_1.webp" alt="Image seko fofana" class="imgplayer">
+        <img src="img/badra_1.webp" alt="Image badra ali" class="imgplayer">
         <div class="overlay">
             <h2 class="overlay-text">Badra Ali Sangaré rejoint un club de 1ère division en Afrique du Sud !</h2>
         </div>

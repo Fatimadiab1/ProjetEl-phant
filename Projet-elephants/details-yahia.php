@@ -70,21 +70,21 @@
 <div class="thirdsection-player">
 
     <div class="image-container">
-        <img src="img/yahia_0.jpg" alt="Image seko fofana" class="imgplayer">
+        <img src="img/yahia_0.jpg" alt="Image yahia fofana" class="imgplayer">
         <div class="overlay">
             <h2 class="overlay-text">Yahia Fofana solide contre le RC Strasbourg</h2>
         </div>
     </div>
 
     <div class="image-container">
-        <img src="img/yahia_1.webp" alt="Image seko fofana" class="imgplayer">
+        <img src="img/yahia_1.webp" alt="Image yahia fofana" class="imgplayer">
         <div class="overlay">
             <h2 class="overlay-text"> LE CHAMPION D'AFRIQUE YAHIA FOFANA EN LICE POUR LE TITRE DE MEILLEUR GARDIEN DE LIGUE 2 FRANÇAISE</h2>
         </div>
     </div>
 
     <div class="image-container">
-        <img src="img/yahia_2.jpeg" alt="Image seko fofana" class="imgplayer">
+        <img src="img/yahia_2.jpeg" alt="Image yahia fofana" class="imgplayer">
         <div class="overlay">
             <h2 class="overlay-text">Eliminatoires Coupe du Monde 2026 : les Éléphants, sauvés par Yahia Fofana, concèdent le nul contre le Kenya</h2>
         </div>

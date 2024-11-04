@@ -70,23 +70,23 @@
 <div class="thirdsection-player">
 
     <div class="image-container">
-        <img src="img/sekofofanapic1.jpg" alt="Image seko fofana" class="imgplayer">
+        <img src="img/folly_1.webp" alt="Image charles folly" class="imgplayer">
         <div class="overlay">
-            <h2 class="overlay-text">Seko Fofana a quitté le RC Lens pour rejoindre Al-Nassr FC en août 2023, où il a ensuite été prêté à Al-Ettifaq FC.</h2>
+            <h2 class="overlay-text">Amical : Les raisons de l'absence de Charles Folly</h2>
         </div>
     </div>
 
     <div class="image-container">
-        <img src="img/sekofofanapic2.jpg" alt="Image seko fofana" class="imgplayer">
+        <img src="img/folly5.jpg" alt="Image charles folly" class="imgplayer">
         <div class="overlay">
-            <h2 class="overlay-text"> Lors de la Coupe d'Afrique des Nations 2024, il a marqué des buts clés et a aidé la Côte d'Ivoire à atteindre les demi-finales.</h2>
+            <h2 class="overlay-text"> Côte d'Ivoire : pourquoi Ayayi Folly a fait faux-bond malgré sa convocation</h2>
         </div>
     </div>
 
     <div class="image-container">
-        <img src="img/sekofofanapic3.jpg" alt="Image seko fofana" class="imgplayer">
+        <img src="img/folly_2.webp" alt="Image charles folly" class="imgplayer">
         <div class="overlay">
-            <h2 class="overlay-text">Son retour en équipe nationale a eu un impact positif, renforçant l'équipe et inspirant ses coéquipiers pendant la compétition.</h2>
+            <h2 class="overlay-text">Écarté de la sélection par Fae, Folly Ayayi Charles se dit déçu</h2>
         </div>
     </div>
 
