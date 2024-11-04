@@ -78,7 +78,7 @@
 
     <button><b>GARDIENS</b></button>
     <button><b>DEFENSEURS</b></button>
-    <button><b>MILLIEUX</b></button>
+    <button><b>MILIEUX</b></button>
     <button><b>ATTAQUANTS</b></button>
   </div>
 
@@ -96,7 +96,7 @@
 
       <div class="">
         <img src="img/maillot.png" alt="" style="height: 100px; width: 140px; ">
-      <p style="text-align: center;"><a href="" style="text-decoration: none;"><b>AURIER</b></a></p>
+      <p style="text-align: center;"><a href="details-serge.php" style="text-decoration: none;"><b>AURIER</b></a></p>
       </div>
 
       <div class="">
@@ -129,7 +129,7 @@
     <div class="center" style="display: flex;justify-content: space-evenly;">
         <div class="">
         <img src="img/maillot.png" alt="" style="height: 100px; width: 140px; ">
-        <p style="text-align: center;"><a href="" style="text-decoration: none;"><b>S.FOFANA</b></a></p>
+        <p style="text-align: center;"><a href="details-seko.php" style="text-decoration: none;"><b>S.FOFANA</b></a></p>
         </div>
 
         <div class="">
@@ -142,7 +142,7 @@
     <div class="center" style="display: flex;justify-content: space-around; padding-top: 25px; text-align: center;">
       <div class="">
       <img src="img/maillot.png" alt="" style="height: 100px; width: 140px; ">
-      <p style="text-align: center;"><a href="" style="text-decoration: none;"><b>ADINGRA</b></a></p>
+      <p style="text-align: center;"><a href="details-simon.php" style="text-decoration: none;"><b>ADINGRA</b></a></p>
       </div>
 
       <div class="">
