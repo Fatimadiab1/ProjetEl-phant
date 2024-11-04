@@ -16,7 +16,7 @@
 <div class="firstsection-player">
 
     <div class="picture-player">
-        <img class="pic" src="img/Haller4.jpg" alt="">
+        <img class="pic" src="img/pepe1.png" alt="">
     </div>
 
     <div class="info-player">
@@ -45,14 +45,14 @@
 
     <div class="palmares">
         <h3 class="titre-palmares">MATCHES AVEC <br> LA COTE D'IVOIRE</h3>
-        <p class="nbr">14</p>
-        <p class="saison">SAISON 2024/2025 <span>04</span></p>
+        <p class="nbr">16</p>
+        <p class="saison">SAISON 2024/2025 <span>06</span></p>
     </div>
 
     <div class="palmares">
         <h3 class="titre-palmares">BUTS AVEC LA <br>COTE D'IVOIRE</h3>
-        <p class="nbr">06</p>
-        <p class="saison">SAISON 2024/2025<span>02</span></p>
+        <p class="nbr">03</p>
+        <p class="saison">SAISON 2024/2025<span>00</span></p>
     </div>
 
     <div class="palmares">
@@ -70,23 +70,23 @@
 <div class="thirdsection-player">
 
     <div class="image-container">
-        <img src="img/Haller1.jpg" alt="Image seko fofana" class="imgplayer">
+        <img src="img/pepe2.png" alt="Image seko fofana" class="imgplayer">
         <div class="overlay">
-            <h2 class="overlay-text">Sebastien Haller rejoint Leganés.</h2>
+            <h2 class="overlay-text">« Je réfléchissais à tout arrêter » : Nicolas Pépé se confie sur ses années compliquées à Arsenal.</h2>
         </div>
     </div>
 
     <div class="image-container">
-        <img src="img/Haller2.jpg" alt="Image seko fofana" class="imgplayer">
+        <img src="img/pepe3.png" alt="Image seko fofana" class="imgplayer">
         <div class="overlay">
-            <h2 class="overlay-text">OM : Sébastien Haller donne son avis sur Jean-Louis Gasset.</h2>
+            <h2 class="overlay-text">Nicolas Pépé rebondit à Villarreal et s'engage jusqu'en 2026.</h2>
         </div>
     </div>
 
     <div class="image-container">
-        <img src="img/Haller3.jpg" alt="Image seko fofana" class="imgplayer">
+        <img src="img/pepe4.png" alt="Image seko fofana" class="imgplayer">
         <div class="overlay">
-            <h2 class="overlay-text">Borussia Dortmund : Sébastien Haller lance déjà le choc final à Wembley.</h2>
+            <h2 class="overlay-text">Officiel : Nicolas Pépé débarque en Espagne !</h2>
         </div>
     </div>
 
@@ -97,43 +97,43 @@
     <swiper-container class="mySwiper" slides-per-view="3" centered-slides="true" space-between="30" pagination="true"
         pagination-type="fraction" navigation="true" style="margin-top: 40px;margin-bottom:40px;">
         <swiper-slide>
-            <a href="img/hallercar1.jpg" data-fancybox data-caption="Can 2023 // Ivoirien">
-                <img src="img/hallercar1.jpg" alt="">
+            <a href="img/pepe5.png" data-fancybox data-caption="Can 2023 // Ivoirien">
+                <img src="img/pepe5.png" alt="">
             </a>
 
         </swiper-slide>
 
         <swiper-slide>
-            <a href="img/hallercar2.jpg" data-fancybox data-caption="Can 2023 // Ivoirien">
-                <img src="img/hallercar2.jpg" alt="">
+            <a href="img/pepe6.jpg" data-fancybox data-caption="Can 2023 // Ivoirien">
+                <img src="img/pepe6.jpg" alt="">
             </a>
 
         </swiper-slide>
 
         <swiper-slide>
-            <a href="img/hallercar3.jpg" data-fancybox data-caption="Can 2023 // Ivoirien">
-                <img src="img/hallercar3.jpg" alt="">
+            <a href="img/pepe7.png" data-fancybox data-caption="Can 2023 // Ivoirien">
+                <img src="img/pepe7.png" alt="">
             </a>
 
         </swiper-slide>
 
         <swiper-slide>
-            <a href="img/hallercar4.jpg" data-fancybox data-caption="Can 2023 // Ivoirien">
-                <img src="img/hallercar4.jpg" alt="">
+            <a href="img/pepe8.png" data-fancybox data-caption="Can 2023 // Ivoirien">
+                <img src="img/pepe8.png" alt="">
             </a>
 
         </swiper-slide>
 
         <swiper-slide>
-            <a href="img/hallercar5.jpg" data-fancybox data-caption="Can 2023 // Ivoirien">
-                <img src="img/hallercar5.jpg" alt="">
+            <a href="img/pepe9.png" data-fancybox data-caption="Can 2023 // Ivoirien">
+                <img src="img/pepe9.png" alt="">
             </a>
 
         </swiper-slide>
 
         <swiper-slide>
-            <a href="img/hallercar6.jpg" data-fancybox data-caption="Can 2023 // Ivoirien">
-                <img src="img/hallecar6.jpg" alt="">
+            <a href="img/pepe10.png" data-fancybox data-caption="Can 2023 // Ivoirien">
+                <img src="img/pepe10.png" alt="">
             </a>
 
         </swiper-slide>
@@ -144,3 +144,8 @@
 
 
 <?php include 'footer.php' ?>
+
+<!-- Javascript -->
+<script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-element-bundle.min.js"></script>
+
+<script src="js/script.js"></script>
