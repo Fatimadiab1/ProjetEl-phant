@@ -68,21 +68,21 @@ cohésion de l'équipe a été essentielle pour le succès de la Côte d'Ivoire 
  <div class="thirdsection-player">
 
 <div class="image-container">
-        <img src="img/GRADEL.jpg" alt="Image seko fofana" class="imgplayer">
+        <img src="img/GRADEL.jpg" alt="Image Max Alain Gradel" class="imgplayer">
         <div class="overlay">
             <h2 class="overlay-text">Passé de remplaçant à titulaire et capitaine en plein milieu de la CAN, Max-Alain Gradel prouve qu’à 36 ans, il a encore les qualités pour se montrer essentiel à son équipe.</h2>
         </div>
     </div>
 
     <div class="image-container">
-        <img src="img/Gradelnews.png" alt="Image seko fofana" class="imgplayer">
+        <img src="img/Gradelnews.png" alt="Image Max Alain Gradel" class="imgplayer">
         <div class="overlay">
             <h2 class="overlay-text">Lors de la CAN il a eu un acte décisif a été de marquer un penalty crucial lors de la séance de tirs au but, contribuant ainsi à la victoire de son équipe</h2>
         </div>
     </div>
 
     <div class="image-container">
-        <img src="img/Gradelelephantcan.jpg" alt="Image seko fofana" class="imgplayer">
+        <img src="img/Gradelelephantcan.jpg" alt="Image Max Alain Gradel" class="imgplayer">
         <div class="overlay">
             <h2 class="overlay-text">Gradel a également été un joueur important tout au long du tournoi, apportant vitesse et créativité à l'attaque ivoirienne.</h2>
         </div>
