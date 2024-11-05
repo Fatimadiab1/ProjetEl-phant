@@ -1,3 +1,6 @@
+<?php
+$title = "Les éléphants | Odilon Kossounou";
+?>
 <?php include 'header.php' ?>
 
 
@@ -54,7 +57,7 @@ ont apporté une stabilité précieuse à la défense ivoirienne, contribuant de
 <p class="saison">SAISON 2024/2025<span>00</span></p>
 </div>
 
-<div class="palmares">
+<div class="palmares"> 
 <h3 class="titre-palmares">PASSES DECISIVES AVEC <br> LA COTE D'IVOIRE</h3>
 <p class="nbr">06</p>
 <p class="saison">SAISON 2024/2025 <span>00</span></p>

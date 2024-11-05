@@ -1,3 +1,7 @@
+<?php
+$title = "Les éléphants |wilfried Singo";
+?>
+
 <?php include 'header.php' ?>
 
 
