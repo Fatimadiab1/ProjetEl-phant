@@ -1,3 +1,6 @@
+<?php
+$title = "Les éléphants | Max-Alain Gradel";
+?>
 <?php include 'header.php' ?>
 
 

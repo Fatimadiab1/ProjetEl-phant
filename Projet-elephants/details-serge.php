@@ -1,3 +1,7 @@
+<?php
+$title = "Les éléphants | Serge-Aurier";
+?>
+
 <?php include 'header.php' ?>
 
 
