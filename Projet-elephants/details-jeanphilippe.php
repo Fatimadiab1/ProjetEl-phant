@@ -24,14 +24,13 @@
         <br>
         <p class="description">Jean-Philippe Krasso, né le 17 juillet 1997 à Stuttgart<br>
             (Allemagne), est un footballeur international ivoirien qui<br>
-             évolue au poste d'avant-centre au Paris FC.</p>
+            évolue au poste d'avant-centre au Paris FC.</p>
 
         <br>
         <br>
-        <p class="description">En septembre 2022, il est sélectionné par Jean-Louis Gasset sélectionneur des Éléphants de Côte d'Ivoire<br>
-            pour deux matchs amicaux contre le Togo et la Guinée. Il inscrit son premier but contre les<br>
-            Comores en mars 2023. Le 28 décembre 2023, il est retenu dans la liste des vingt-sept joueurs ivoiriens<br>
-            sélectionnés par Jean-Louis Gasset pour disputer la Coupe d'Afrique des nations 2023.
+        <p class="description">En septembre 2022, il est sélectionné par Jean-Louis <br> Gasset      sélectionneur des Éléphants de Côte d'Ivoire<br>
+            pour deux matchs amicaux contre le Togo et la Guinée. <br> Il inscrit son premier but contre les Comores en mars 2023. <br> Le 28 décembre 2023, <br> il est retenu dans la liste des vingt-sept joueurs ivoiriens<br>
+            sélectionnés par Jean-Louis Gasset pour disputer <br>la Coupe d'Afrique des nations 2023.
         </p>
 
 
