@@ -25,7 +25,6 @@
 }
 
 .staff {
-    margin-top: 100px;
     margin-bottom: 100px;
     display: flex;
     flex-direction: column;
@@ -34,38 +33,37 @@
     justify-content: center;
 }
 
+.card{
+    height: 350px;
+    width: 250px;
+    background-color: #9cae9f;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.text{
+    
+}
+
 .emerse {
     display: flex;
     gap: 70px;
 }
 
-.emerse div {
-    height: 320px;
-    width: 250px;
-    background-color: #9cae9f;
-}
 
 .entraineurs {
     display: flex;
     gap: 70px;
 }
 
-.entraineurs div {
-    height: 320px;
-    width: 250px;
-    background-color: #9cae9f;
-}
 
 .preparateurs {
     display: flex;
     gap: 70px;
 }
 
-.preparateurs div {
-    height: 320px;
-    width: 250px;
-    background-color: #9cae9f;
-}
+
 
 
 @media only screen and (max-width: 800px) {
