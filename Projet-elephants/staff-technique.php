@@ -1,3 +1,6 @@
+<?php
+$title = "Les éléphants | Staff Technique";
+?>
 <?php include 'header.php' ?>
 
 <div class="background-staff">

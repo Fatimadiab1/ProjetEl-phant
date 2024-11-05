@@ -34,7 +34,7 @@
 }
 
 .card-staff {
-    height: 370px;
+    height: 400px;
     width: 250px;
     display: flex;
     flex-direction: column;
@@ -56,19 +56,19 @@
 
 .emerse {
     display: flex;
-    gap: 70px;
+    gap: 40px;
 }
 
 
 .entraineurs {
     display: flex;
-    gap: 70px;
+    gap: 40px;
 }
 
 
 .preparateurs {
     display: flex;
-    gap: 70px;
+    gap: 40px;
 }
 
 
@@ -91,19 +91,19 @@
 
     .emerse {
         display: flex;
-        gap: 70px;
+        gap: 40px;
         flex-direction: column;
     }
 
     .entraineurs {
         display: flex;
-        gap: 70px;
+        gap: 40px;
         flex-direction: column;
     }
 
     .preparateurs {
         display: flex;
-        gap: 70px;
+        gap: 40px;
         flex-direction: column;
     }
 
@@ -125,19 +125,19 @@
 
     .emerse {
         display: flex;
-        gap: 70px;
+        gap: 40px;
         flex-direction: column;
     }
 
     .entraineurs {
         display: flex;
-        gap: 70px;
+        gap: 40px;
         flex-direction: column;
     }
 
     .preparateurs {
         display: flex;
-        gap: 70px;
+        gap: 40px;
         flex-direction: column;
     }
 }
@@ -158,19 +158,19 @@
 
     .emerse {
         display: flex;
-        gap: 70px;
+        gap: 40px;
         flex-direction: column;
     }
 
     .entraineurs {
         display: flex;
-        gap: 70px;
+        gap: 40px;
         flex-direction: column;
     }
 
     .preparateurs {
         display: flex;
-        gap: 70px;
+        gap: 40px;
         flex-direction: column;
     }
 }
