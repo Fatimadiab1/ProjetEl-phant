@@ -1,3 +1,6 @@
+<?php
+$title = "Les éléphants | joueurs";
+?>
 <?php include 'header.php' ?>
 
 
