@@ -1,3 +1,6 @@
+<?php
+$title = "Les éléphants | Charles Folly";
+?>
 <?php include 'header.php' ?>
 
 

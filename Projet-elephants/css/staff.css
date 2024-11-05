@@ -33,17 +33,25 @@
     justify-content: center;
 }
 
-.card{
-    height: 350px;
+.card {
+    height: 370px;
     width: 250px;
-    background-color: #9cae9f;
     display: flex;
     flex-direction: column;
-
 }
 
-.text{
-    
+
+.text-staff {
+    height: 70px;
+    background-color: #9cae9f;
+    font-size: 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.text-staff h4{
+    font-size:15px; ;
 }
 
 .emerse {
@@ -86,11 +94,13 @@
         gap: 70px;
         flex-direction: column;
     }
+
     .entraineurs {
         display: flex;
         gap: 70px;
         flex-direction: column;
     }
+
     .preparateurs {
         display: flex;
         gap: 70px;
@@ -118,11 +128,13 @@
         gap: 70px;
         flex-direction: column;
     }
+
     .entraineurs {
         display: flex;
         gap: 70px;
         flex-direction: column;
     }
+
     .preparateurs {
         display: flex;
         gap: 70px;
@@ -149,11 +161,13 @@
         gap: 70px;
         flex-direction: column;
     }
+
     .entraineurs {
         display: flex;
         gap: 70px;
         flex-direction: column;
     }
+
     .preparateurs {
         display: flex;
         gap: 70px;
