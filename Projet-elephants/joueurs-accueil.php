@@ -256,7 +256,7 @@
 
       <div class="">
         <img src="img/maillot.png" alt="" style="height: 100px; width: 140px; ">
-      <p style="text-align: center;"><a href="" style="text-decoration: none;"><b>DIAKITE</b></a></p>
+      <p style="text-align: center;"><a href="details-oumar.php" style="text-decoration: none;"><b>DIAKITE</b></a></p>
       </div>
       
   </div>
