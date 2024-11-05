@@ -1,3 +1,6 @@
+<?php
+$title = "Les éléphants | Oumar Diakité";
+?>
 <?php include 'header.php' ?>
 
 

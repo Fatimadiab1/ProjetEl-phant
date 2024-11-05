@@ -1,3 +1,6 @@
+<?php 
+$title = "Les éléphants | Seko Fofana";
+?>
 <?php include 'header.php' ?>
 
 
