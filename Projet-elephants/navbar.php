@@ -1,7 +1,7 @@
 <div class="nav">
       <div class="cc"></div>
       <div class="image">
-        <img src="img/OIP (6).png" alt="cost" />
+        <a href="index.php"> <img src="img/OIP (6).png" alt="cost" /></a>
         <span>
           <h2 style="color: white">CÔTE D'IVOIRE</h2>
           <h4
