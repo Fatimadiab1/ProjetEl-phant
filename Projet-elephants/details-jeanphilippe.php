@@ -28,20 +28,10 @@
 
         <br>
         <br>
-<<<<<<< HEAD
+
         <p class="description">En septembre 2022, il est sélectionné par Jean-Louis <br> Gasset      sélectionneur des Éléphants de Côte d'Ivoire<br>
             pour deux matchs amicaux contre le Togo et la Guinée. <br> Il inscrit son premier but contre les Comores en mars 2023. <br> Le 28 décembre 2023, <br> il est retenu dans la liste des vingt-sept joueurs ivoiriens<br>
             sélectionnés par Jean-Louis Gasset pour disputer <br>la Coupe d'Afrique des nations 2023.
-=======
-        <p class="description">En septembre 2022, il est sélectionné par Jean-Louis Gasset<br>
-            sélectionneur des Éléphants de Côte d'Ivoire pour <br>
-            deux matchs amicaux contre le Togo et la Guinée.<br>
-            Il inscrit son premier but contre les Comores en mars 2023. Le 28 décembre 2023, <br>
-            il est retenu dans la liste des vingt-sept joueurs ivoiriens sélectionnés par Jean-Louis Gasset<br>
-            pour disputer la Coupe d'Afrique des nations 2023.
->>>>>>> 2d766a3d225c5aed6372e0441e0f00066d83f085
-        </p>
-
 
     </div>
 
