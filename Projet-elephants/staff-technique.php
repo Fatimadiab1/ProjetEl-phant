@@ -10,7 +10,7 @@
 
 <div class="staff">
     <div class="emerse">
-        <div class="card">
+        <div class="card-staff">
             <img src="img/emerse.jpg" alt="emerse fae">
             <div class="text-staff">
                 <h4>EMERSE FAÉ</h4>
@@ -20,7 +20,7 @@
     </div>
 
     <div class="entraineurs">
-        <div class="card">
+        <div class="card-staff">
             <img src="img/guy.jpg" alt="guy demel">
             <div class="text-staff">
                 <h4>GUY DEMEL</h4>
@@ -28,7 +28,7 @@
             </div>
         </div>
 
-        <div class="card">
+        <div class="card-staff">
             <img src="img/alaing.jpg" alt="alain gouamene">
             <div class="text-staff">
                 <h4>ALAIN GOUAMENE</h4>
@@ -36,7 +36,7 @@
             </div>
         </div>
 
-        <div class="card">
+        <div class="card-staff">
             <img src="img/gerard.jpg" alt="gerard gnanhouan">
             <div class="text-staff">
                 <h4>GÉRARD GNANHOUAN</h4>
@@ -46,7 +46,7 @@
     </div>
 
     <div class="preparateurs">
-        <div class="card">
+        <div class="card-staff">
             <img src="img/samir.png" alt="samir anba">
             <div class="text-staff">
                 <h4>SAMIR ANBA</h4>
@@ -54,7 +54,7 @@
             </div>
         </div>
 
-        <div class="card">
+        <div class="card-staff">
             <img src="img/jeremy.png" alt="jeremy antonio">
             <div class="text-staff">
                 <h4>JEREMY ANTONIO</h4>
