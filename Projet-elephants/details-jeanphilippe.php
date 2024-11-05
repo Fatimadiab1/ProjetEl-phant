@@ -1,3 +1,7 @@
+<?php
+$title = "Les éléphants | Jean Philippe KRASSO";
+?>
+
 <?php include 'header.php' ?>
 
 

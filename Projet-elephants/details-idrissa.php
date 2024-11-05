@@ -1,3 +1,5 @@
+<?php $title = "Les éléphants | Idrissa Doumbia";
+?>
 <?php include 'header.php' ?>
 
 
