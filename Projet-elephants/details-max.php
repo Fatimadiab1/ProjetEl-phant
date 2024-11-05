@@ -98,42 +98,42 @@ cohésion de l'équipe a été essentielle pour le succès de la Côte d'Ivoire 
  <swiper-container class="mySwiper" slides-per-view="3" centered-slides="true" space-between="30" pagination="true"
       pagination-type="fraction" navigation="true" style="margin-top: 40px;margin-bottom:40px;">
       <swiper-slide>
-          <a href="img/max-gradel1.png" data-fancybox data-caption="Can 2023 // Ivoirien">
+          <a href="img/max-gradel1.png" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
               <img src="img/max-gradel1.png" alt="">
           </a>
          
       </swiper-slide>
 
       <swiper-slide>
-          <a href="img/maxalaingradel.png" data-fancybox data-caption="Can 2023 // Ivoirien">
+          <a href="img/maxalaingradel.png" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
               <img src="img/maxalaingradel.png" alt="">
           </a>
           
       </swiper-slide>
 
       <swiper-slide>
-          <a href="img/Max-Alain-Gradel.jpg" data-fancybox data-caption="Can 2023 // Ivoirien">
+          <a href="img/Max-Alain-Gradel.jpg" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
               <img src="img/Max-Alain-Gradel.jpg" alt="">
           </a>
 
       </swiper-slide>
 
       <swiper-slide>
-          <a href="img/MaxAlainGRad.jpg" data-fancybox data-caption="Can 2023 // Ivoirien">
+          <a href="img/MaxAlainGRad.jpg" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
               <img src="img/MaxAlainGRad.jpg" alt="">
           </a>
    
       </swiper-slide>
 
       <swiper-slide>
-          <a href="img/GradelElephant.jpg" data-fancybox data-caption="Can 2023 // Ivoirien">
+          <a href="img/GradelElephant.jpg" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
               <img src="img/GradelElephant.jpg" alt="">
           </a>
 
       </swiper-slide>
 
       <swiper-slide>
-          <a href="img/Gradelcoupe.jpg" data-fancybox data-caption="Can 2023 // Ivoirien">
+          <a href="img/Gradelcoupe.jpg" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
               <img src="img/Gradelcoupe.jpg" alt="">
           </a>
           </swiper-slide>

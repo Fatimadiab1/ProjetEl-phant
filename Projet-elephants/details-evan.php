@@ -112,42 +112,42 @@ la Coupe d’Afrique des nations 2023 avec <br>les Éléphants de Côte d’Ivoi
   <swiper-container class="mySwiper" slides-per-view="3" centered-slides="true" space-between="30" pagination="true"
       pagination-type="fraction" navigation="true" style="margin-top: 40px;margin-bottom:40px;">
       <swiper-slide>
-          <a href="img/ndicka5.jpeg" data-fancybox data-caption="Can 2023 // Ivoirien">
+          <a href="img/ndicka5.jpeg" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
               <img src="img/ndicka5.jpeg" alt="">
           </a>
          
       </swiper-slide>
 
       <swiper-slide>
-          <a href="img/ndicka.jpeg" data-fancybox data-caption="Can 2023 // Ivoirien">
+          <a href="img/ndicka.jpeg" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
               <img src="img/ndicka.jpeg" alt="">
           </a>
           
       </swiper-slide>
 
       <swiper-slide>
-          <a href="img/ndicka1.jpeg" data-fancybox data-caption="Can 2023 // Ivoirien">
+          <a href="img/ndicka1.jpeg" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
               <img src="img/ndicka1.jpeg" alt="">
           </a>
 
       </swiper-slide>
 
       <swiper-slide>
-          <a href="img/ndicka2.jpeg" data-fancybox data-caption="Can 2023 // Ivoirien">
+          <a href="img/ndicka2.jpeg" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
               <img src="img/ndicka2.jpeg" alt="">
           </a>
    
       </swiper-slide>
 
       <swiper-slide>
-          <a href="img/ndicka3.jpeg" data-fancybox data-caption="Can 2023 // Ivoirien">
+          <a href="img/ndicka3.jpeg" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
               <img src="img/ndicka3.jpeg" alt="">
           </a>
 
       </swiper-slide>
 
       <swiper-slide>
-          <a href="img/ndicka4.jpeg" data-fancybox data-caption="Can 2023 // Ivoirien">
+          <a href="img/ndicka4.jpeg" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
               <img src="img/ndicka4.jpeg" alt="">
           </a>
 

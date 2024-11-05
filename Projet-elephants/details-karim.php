@@ -95,42 +95,42 @@ $title = "Les éléphants | Karim-Konate";
     <swiper-container class="mySwiper" slides-per-view="3" centered-slides="true" space-between="30" pagination="true"
         pagination-type="fraction" navigation="true" style="margin-top: 40px;margin-bottom:40px;">
         <swiper-slide>
-            <a href="img/mercato karim.jpg" data-fancybox data-caption="Konaté Karim">
+            <a href="img/mercato karim.jpg" data-fancybox = "gallery"data-caption="Konaté Karim">
                 <img src="img/mercato karim.jpg" alt="">
             </a>
 
         </swiper-slide>
 
         <swiper-slide>
-            <a href="img/konate.jpg.588.jpg" data-fancybox data-caption="Konaté Karim">
+            <a href="img/konate.jpg.588.jpg" data-fancybox = "gallery"data-caption="Konaté Karim">
                 <img src="img/konate.jpg.588.jpg" alt="">
             </a>
 
         </swiper-slide>
 
         <swiper-slide>
-            <a href="img/Karim-Konate-011.webp" data-fancybox data-caption="Konaté Karim">
+            <a href="img/Karim-Konate-011.webp" data-fancybox = "gallery"data-caption="Konaté Karim">
                 <img src="img/Karim-Konate-011.webp" alt="">
             </a>
 
         </swiper-slide>
 
         <swiper-slide>
-            <a href="img/konate_karim544.jpg" data-fancybox data-caption="Konaté Karim">
+            <a href="img/konate_karim544.jpg" data-fancybox = "gallery"data-caption="Konaté Karim">
                 <img src="img/konate_karim544.jpg" alt="">
             </a>
 
         </swiper-slide>
 
         <swiper-slide>
-            <a href="img/karim_14.jpg" data-fancybox data-caption="Konaté Karim">
+            <a href="img/karim_14.jpg" data-fancybox = "gallery"data-caption="Konaté Karim">
                 <img src="img/karim_14.jpg" alt="">
             </a>
 
         </swiper-slide>
 
         <swiper-slide>
-            <a href="img/konate.jpg.588.jpg" data-fancybox data-caption="Konaté Karim">
+            <a href="img/konate.jpg.588.jpg" data-fancybox = "gallery"data-caption="Konaté Karim">
                 <img src="img/konate.jpg.588.jpg" alt="">
             </a>
 

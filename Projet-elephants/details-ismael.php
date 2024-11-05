@@ -96,42 +96,42 @@ $title = "Les éléphants | Ismael Diallo";
     <swiper-container class="mySwiper" slides-per-view="3" centered-slides="true" space-between="30" pagination="true"
         pagination-type="fraction" navigation="true" style="margin-top: 40px;margin-bottom:40px;">
         <swiper-slide>
-            <a href="img/diallo3.jpg" data-fancybox data-caption="Can 2023 // Ivoirien">
+            <a href="img/diallo3.jpg" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
                 <img src="img/diallo3.jpg" alt="">
             </a>
 
         </swiper-slide>
 
         <swiper-slide>
-            <a href="img/diallo4.jpg" data-fancybox data-caption="Can 2023 // Ivoirien">
+            <a href="img/diallo4.jpg" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
                 <img src="img/diallo4.jpg" alt="">
             </a>
 
         </swiper-slide>
 
         <swiper-slide>
-            <a href="img/diallo5.jpg" data-fancybox data-caption="Can 2023 // Ivoirien">
+            <a href="img/diallo5.jpg" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
                 <img src="img/diallo5.jpg" alt="">
             </a>
 
         </swiper-slide>
 
         <swiper-slide>
-            <a href="img/diallo.jpg" data-fancybox data-caption="Can 2023 // Ivoirien">
+            <a href="img/diallo.jpg" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
                 <img src="img/diallo.jpg" alt="">
             </a>
 
         </swiper-slide>
 
         <swiper-slide>
-            <a href="img/diallo1.jpg" data-fancybox data-caption="Can 2023 // Ivoirien">
+            <a href="img/diallo1.jpg" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
                 <img src="img/diallo1.jpg" alt="">
             </a>
 
         </swiper-slide>
 
         <swiper-slide>
-            <a href="img/lazare_amani6.jpg" data-fancybox data-caption="Can 2023 // Ivoirien">
+            <a href="img/lazare_amani6.jpg" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
                 <img src="img/lazare_amani6.jpg" alt="">
             </a>
 

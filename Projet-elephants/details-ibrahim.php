@@ -99,42 +99,42 @@ ont solidifié le milieu ivoirien, contribuant de manière significative au succ
  <swiper-container class="mySwiper" slides-per-view="3" centered-slides="true" space-between="30" pagination="true"
       pagination-type="fraction" navigation="true" style="margin-top: 40px;margin-bottom:40px;">
       <swiper-slide>
-          <a href="img/IBsangar.jpg" data-fancybox data-caption="Can 2023 // Ivoirien">
+          <a href="img/IBsangar.jpg" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
               <img src="img/IBsangar.jpg" alt="">
           </a>
          
       </swiper-slide>
 
       <swiper-slide>
-          <a href="img/IbrahimS.jpg" data-fancybox data-caption="Can 2023 // Ivoirien">
+          <a href="img/IbrahimS.jpg" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
               <img src="img/IbrahimS.jpg" alt="">
           </a>
           
       </swiper-slide>
 
       <swiper-slide>
-          <a href="img/IbrahimEle.jpg" data-fancybox data-caption="Can 2023 // Ivoirien">
+          <a href="img/IbrahimEle.jpg" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
               <img src="img/IbrahimEle.jpg" alt="">
           </a>
 
       </swiper-slide>
 
       <swiper-slide>
-          <a href="img/IbrahimSan.webp" data-fancybox data-caption="Can 2023 // Ivoirien">
+          <a href="img/IbrahimSan.webp" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
               <img src="img/IbrahimSan.webp" alt="">
           </a>
    
       </swiper-slide>
 
       <swiper-slide>
-          <a href="img/Sangare-Ibrahim.jpg" data-fancybox data-caption="Can 2023 // Ivoirien">
+          <a href="img/Sangare-Ibrahim.jpg" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
               <img src="img/Sangare-Ibrahim.jpg" alt="">
           </a>
 
       </swiper-slide>
 
       <swiper-slide>
-          <a href="img/IbrahimFinaljpeg.jpeg" data-fancybox data-caption="Can 2023 // Ivoirien">
+          <a href="img/IbrahimFinaljpeg.jpeg" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
               <img src="img/IbrahimFinaljpeg.jpeg" alt="">
           </a>
           </swiper-slide>

@@ -209,13 +209,13 @@ span{
 .drapci span:nth-child(3) { background-color: green; }  /* Couleur verte */
 
 .content{
-    height: 91vh;
+    height: 100vh;
 }
 
 .cardContainer {
     position: absolute;
     display: flex; /* Aligne les cartes horizontalement */
-    bottom: 100px;
+    bottom: 95px;
     z-index: 100;
     gap: 10px; /* Espace entre les cartes */
 }
@@ -262,7 +262,7 @@ span{
     color:#264607;
 }
 .img-fluid {
-    max-height: 150px; /* Limite la hauteur maximale de l'image */
+    max-height: 180px; /* Limite la hauteur maximale de l'image */
     object-fit: cover; /* Couvre la zone sans déformer l'image */
 }
 

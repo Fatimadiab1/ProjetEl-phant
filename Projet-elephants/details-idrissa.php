@@ -96,42 +96,42 @@
     <swiper-container class="mySwiper" slides-per-view="3" centered-slides="true" space-between="30" pagination="true"
         pagination-type="fraction" navigation="true" style="margin-top: 40px;margin-bottom:40px;">
         <swiper-slide>
-            <a href="img/idrissa.jpeg" data-fancybox data-caption="Can 2023 // Ivoirien">
+            <a href="img/idrissa.jpeg" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
                 <img src="img/idrissa.jpeg" alt="">
             </a>
 
         </swiper-slide>
 
         <swiper-slide>
-            <a href="img/idrissa1.jpeg" data-fancybox data-caption="Can 2023 // Ivoirien">
+            <a href="img/idrissa1.jpeg" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
                 <img src="img/idrissa1.jpeg" alt="">
             </a>
 
         </swiper-slide>
 
         <swiper-slide>
-            <a href="img/idrissa6.jpg" data-fancybox data-caption="Can 2023 // Ivoirien">
+            <a href="img/idrissa6.jpg" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
                 <img src="img/idrissa6.jpg" alt="">
             </a>
 
         </swiper-slide>
 
         <swiper-slide>
-            <a href="img/idrissa.jpeg" data-fancybox data-caption="Can 2023 // Ivoirien">
+            <a href="img/idrissa.jpeg" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
                 <img src="img/idrissa.jpeg" alt="">
             </a>
 
         </swiper-slide>
 
         <swiper-slide>
-            <a href="img/idrissa1.jpeg" data-fancybox data-caption="Can 2023 // Ivoirien">
+            <a href="img/idrissa1.jpeg" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
                 <img src="img/idrissa1.jpeg" alt="">
             </a>
 
         </swiper-slide>
 
         <swiper-slide>
-            <a href="img/idrissa.jpeg" data-fancybox data-caption="Can 2023 // Ivoirien">
+            <a href="img/idrissa.jpeg" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
                 <img src="img/idrissa.jpeg" alt="">
             </a>
 

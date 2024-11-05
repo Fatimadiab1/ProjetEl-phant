@@ -98,42 +98,42 @@ $title = "Les éléphants | willy bolly";
   <swiper-container class="mySwiper" slides-per-view="3" centered-slides="true" space-between="30" pagination="true"
       pagination-type="fraction" navigation="true" style="margin-top: 40px;margin-bottom:40px;">
       <swiper-slide>
-          <a href="img/bog6.jpg" data-fancybox data-caption="Can 2023 // Ivoirien">
+          <a href="img/bog6.jpg" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
               <img src="img/bog6.jpg" alt="">
           </a>
          
       </swiper-slide>
 
       <swiper-slide>
-          <a href="img/bog1.jpg" data-fancybox data-caption="Can 2023 // Ivoirien">
+          <a href="img/bog1.jpg" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
               <img src="img/bog1.jpg" alt="">
           </a>
           
       </swiper-slide>
 
       <swiper-slide>
-          <a href="img/bog5.webp" data-fancybox data-caption="Can 2023 // Ivoirien">
+          <a href="img/bog5.webp" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
               <img src="img/bog5.webp" alt="">
           </a>
 
       </swiper-slide>
 
       <swiper-slide>
-          <a href="img/Bo_1.jpg" data-fancybox data-caption="Can 2023 // Ivoirien">
+          <a href="img/Bo_1.jpg" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
               <img src="img/Bo_1.jpg" alt="">
           </a>
    
       </swiper-slide>
 
       <swiper-slide>
-          <a href="img/bog3.jpg" data-fancybox data-caption="Can 2023 // Ivoirien">
+          <a href="img/bog3.jpg" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
               <img src="img/bog3.jpg" alt="">
           </a>
 
       </swiper-slide>
 
       <swiper-slide>
-          <a href="img/bog4.jpg" data-fancybox data-caption="Can 2023 // Ivoirien">
+          <a href="img/bog4.jpg" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
               <img src="img/bog4.jpg" alt="">
           </a>
 

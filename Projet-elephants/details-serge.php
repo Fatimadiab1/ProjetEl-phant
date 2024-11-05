@@ -96,42 +96,42 @@ $title = "Les éléphants | Serge-Aurier";
     <swiper-container class="mySwiper" slides-per-view="3" centered-slides="true" space-between="30" pagination="true"
         pagination-type="fraction" navigation="true" style="margin-top: 40px;margin-bottom:40px;">
         <swiper-slide>
-            <a href="img/aurierrrrrrrrrrrrrrrrrrrrrrrrrr.jpg" data-fancybox data-caption="Serge Aurier">
+            <a href="img/aurierrrrrrrrrrrrrrrrrrrrrrrrrr.jpg" data-fancybox = "gallery"data-caption="Serge Aurier">
                 <img src="img/aurierrrrrrrrrrrrrrrrrrrrrrrrrr.jpg" alt="">
             </a>
 
         </swiper-slide>
 
         <swiper-slide>
-            <a href="img/Serge-Aurier-vers-une-nouvelle-destination-675x375.jpg" data-fancybox data-caption="Serge Aurier">
+            <a href="img/Serge-Aurier-vers-une-nouvelle-destination-675x375.jpg" data-fancybox = "gallery"data-caption="Serge Aurier">
                 <img src="img/Serge-Aurier-vers-une-nouvelle-destination-675x375.jpg" alt="">
             </a>
 
         </swiper-slide>
 
         <swiper-slide>
-            <a href="img/Serge-Aurier-1804030.jpg" data-fancybox data-caption="Serge Aurier">
+            <a href="img/Serge-Aurier-1804030.jpg" data-fancybox = "gallery"data-caption="Serge Aurier">
                 <img src="img/Serge-Aurier-1804030.jpg" alt="">
             </a>
 
         </swiper-slide>
 
         <swiper-slide>
-            <a href="img/aurierser.jpg" data-fancybox data-caption="Serge Aurier">
+            <a href="img/aurierser.jpg" data-fancybox = "gallery"data-caption="Serge Aurier">
                 <img src="img/aurierser.jpg" alt="">
             </a>
 
         </swiper-slide>
 
         <swiper-slide>
-            <a href="img/Aurier-CI-nvo.jpg" data-fancybox data-caption="Serge Aurier">
+            <a href="img/Aurier-CI-nvo.jpg" data-fancybox = "gallery"data-caption="Serge Aurier">
                 <img src="img/Aurier-CI-nvo.jpg" alt="">
             </a>
 
         </swiper-slide>
 
         <swiper-slide>
-            <a href="img/aurierforfait_0.jpg" data-fancybox data-caption="Serge Aurier">
+            <a href="img/aurierforfait_0.jpg" data-fancybox = "gallery"data-caption="Serge Aurier">
                 <img src="img/aurierforfait_0.jpg" alt="">
             </a>
 
