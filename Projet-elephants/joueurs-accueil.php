@@ -146,8 +146,8 @@
                       <li><a href="details-seko.php">S.FOFANA</a></li>
                       <li><a href="#">J.SERI</a></li>
                       <li><a href="#">I.DOUMBIA</a></li>
-                      <li><a href="#">I.SANGARE</a></li>
-                      <li><a href="#">F.KESSIE</a></li>
+                      <li><a href="details-ibrahim.php">I.SANGARE</a></li>
+                      <li><a href="details-franck.php">F.KESSIE</a></li>
                       <li><a href="#">L.AMANI</a></li>
                   </ul>
               </div> 
@@ -158,7 +158,7 @@
                   <ul class="list-unstyled text-center " style="color: orangered;">
                       <li><a href="#">E.N'DICKA</a></li>
                       <li><a href="#">W.BOLLY</a></li>
-                      <li><a href="#">O.KOSSONOU</a></li>
+                      <li><a href="details-odilon.php">O.KOSSONOU</a></li>
                       <li><a href="#">O.DIOMANDE</a></li>
                       <li><a href="#">W.SINGO</a></li>
                       <li><a href="details-serge.php">S.AURIER</a></li>
@@ -210,7 +210,7 @@
 
       <div class="">
         <img src="img/maillot.png" alt="" style="height: 100px; width: 140px; ">
-      <p style="text-align: center;"><a href="" style="text-decoration: none;"><b>KOSSOUNOU</b></a></p>
+      <p style="text-align: center;"><a href="details-odilon.php" style="text-decoration: none;"><b>KOSSOUNOU</b></a></p>
       </div>
 
       <div class="">
@@ -238,7 +238,7 @@
 
         <div class="">
           <img src="img/maillot.png" alt="" style="height: 100px; width: 140px; ">
-        <p style="text-align: center;"><a href="" style="text-decoration: none;"><b>SANGARE</b></a></p>
+        <p style="text-align: center;"><a href="details-ibrahim.php" style="text-decoration: none;"><b>SANGARE</b></a></p>
         </div>
     </div>
 
