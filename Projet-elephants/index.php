@@ -1,3 +1,6 @@
+<?php
+$title = "Les éléphants | Accueil";
+?>
 <?php include 'header.php' ?>
 <?php include 'entete.php' ?>
 <?php include 'accueil-apropos.php' ?>
