@@ -91,8 +91,8 @@
     <swiper-container class="mySwiper" slides-per-view="3" centered-slides="true" space-between="30" pagination="true"
         pagination-type="fraction" navigation="true" style="margin-top: 40px;margin-bottom:40px;">
         <swiper-slide>
-            <a href="img/football_karim.jpg" data-fancybox data-caption="Konaté Karim">
-                <img src="img/football_karim.jpg" alt="">
+            <a href="img/mercato karim.jpg" data-fancybox data-caption="Konaté Karim">
+                <img src="img/mercato karim.jpg" alt="">
             </a>
 
         </swiper-slide>
