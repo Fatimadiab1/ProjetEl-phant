@@ -153,7 +153,7 @@ $title = "Les éléphants | joueurs";
               <div class="card card-body mb-3">
                   <ul class="list-unstyled text-center " style="color: orangered;">
                       <li><a href="details-evan.php">E.N'DICKA</a></li>
-                      <li><a href="#">W.BOLLY</a></li>
+                      <li><a href="details-willy.php">W.BOLLY</a></li>
                       <li><a href="details-odilon.php">O.KOSSONOU</a></li>
                       <li><a href="details-ousmane.php">O.DIOMANDE</a></li>
                       <li><a href="details-wilfried.php">W.SINGO</a></li>
