@@ -93,42 +93,42 @@ $title = "Les éléphants | Simon-Adingra";
     <swiper-container class="mySwiper" slides-per-view="3" centered-slides="true" space-between="30" pagination="true"
         pagination-type="fraction" navigation="true" style="margin-top: 40px;margin-bottom:40px;">
         <swiper-slide>
-            <a href="img/ADINGRA_SIMON_2.JPG" data-fancybox data-caption="Adingra Simon">
+            <a href="img/ADINGRA_SIMON_2.JPG" data-fancybox = "gallery"data-caption="Adingra Simon">
                 <img src="img/ADINGRA_SIMON_2.JPG" alt="">
             </a>
 
         </swiper-slide>
 
         <swiper-slide>
-            <a href="img/ADINGRA_SIMON_3.JPG" data-fancybox data-caption="Adingra Simon">
+            <a href="img/ADINGRA_SIMON_3.JPG" data-fancybox = "gallery"data-caption="Adingra Simon">
                 <img src="img/ADINGRA_SIMON_3.JPG" alt="">
             </a>
 
         </swiper-slide>
 
         <swiper-slide>
-            <a href="img/ADINGRA_SIMON_5.jpg" data-fancybox data-caption="Adingra Simon">
+            <a href="img/ADINGRA_SIMON_5.jpg" data-fancybox = "gallery"data-caption="Adingra Simon">
                 <img src="img/ADINGRA_SIMON_5.jpg" alt="">
             </a>
 
         </swiper-slide>
 
         <swiper-slide>
-            <a href="img/ADINGRA_SIMON_10.jpg" data-fancybox data-caption="Adingra Simon">
+            <a href="img/ADINGRA_SIMON_10.jpg" data-fancybox = "gallery"data-caption="Adingra Simon">
                 <img src="img/ADINGRA_SIMON_10.jpg" alt="">
             </a>
 
         </swiper-slide>
 
         <swiper-slide>
-            <a href="img/Simon-Adingra11.jpg" data-fancybox data-caption="Adingra Simon">
+            <a href="img/Simon-Adingra11.jpg" data-fancybox = "gallery"data-caption="Adingra Simon">
                 <img src="img/Simon-Adingra11.jpg" alt="">
             </a>
 
         </swiper-slide>
 
         <swiper-slide>
-            <a href="img/Simon-Adingra12.jpg" data-fancybox data-caption="Adingra Simon">
+            <a href="img/Simon-Adingra12.jpg" data-fancybox = "gallery"data-caption="Adingra Simon">
                 <img src="img/Simon-Adingra12.jpg" alt="">
             </a>
 

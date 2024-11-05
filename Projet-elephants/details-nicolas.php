@@ -100,42 +100,42 @@ $title = "Les éléphants | Nicolas PÉPÉ";
     <swiper-container class="mySwiper" slides-per-view="3" centered-slides="true" space-between="30" pagination="true"
         pagination-type="fraction" navigation="true" style="margin-top: 40px;margin-bottom:40px;">
         <swiper-slide>
-            <a href="img/pepe5.png" data-fancybox data-caption="Can 2023 // Ivoirien">
+            <a href="img/pepe5.png" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
                 <img src="img/pepe5.png" alt="">
             </a>
 
         </swiper-slide>
 
         <swiper-slide>
-            <a href="img/pepe6.jpg" data-fancybox data-caption="Can 2023 // Ivoirien">
+            <a href="img/pepe6.jpg" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
                 <img src="img/pepe6.jpg" alt="">
             </a>
 
         </swiper-slide>
 
         <swiper-slide>
-            <a href="img/pepe7.png" data-fancybox data-caption="Can 2023 // Ivoirien">
+            <a href="img/pepe7.png" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
                 <img src="img/pepe7.png" alt="">
             </a>
 
         </swiper-slide>
 
         <swiper-slide>
-            <a href="img/pepe8.png" data-fancybox data-caption="Can 2023 // Ivoirien">
+            <a href="img/pepe8.png" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
                 <img src="img/pepe8.png" alt="">
             </a>
 
         </swiper-slide>
 
         <swiper-slide>
-            <a href="img/pepe9.png" data-fancybox data-caption="Can 2023 // Ivoirien">
+            <a href="img/pepe9.png" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
                 <img src="img/pepe9.png" alt="">
             </a>
 
         </swiper-slide>
 
         <swiper-slide>
-            <a href="img/pepe10.png" data-fancybox data-caption="Can 2023 // Ivoirien">
+            <a href="img/pepe10.png" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
                 <img src="img/pepe10.png" alt="">
             </a>
 

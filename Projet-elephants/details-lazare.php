@@ -98,42 +98,42 @@ $title = "Les éléphants | Lazare Amani";
     <swiper-container class="mySwiper" slides-per-view="3" centered-slides="true" space-between="30" pagination="true"
         pagination-type="fraction" navigation="true" style="margin-top: 40px;margin-bottom:40px;">
         <swiper-slide>
-            <a href="img/lazare_amani.png" data-fancybox data-caption="Can 2023 // Ivoirien">
+            <a href="img/lazare_amani.png" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
                 <img src="img/lazare_amani.png" alt="">
             </a>
 
         </swiper-slide>
 
         <swiper-slide>
-            <a href="img/lazare_amani1.jpg" data-fancybox data-caption="Can 2023 // Ivoirien">
+            <a href="img/lazare_amani1.jpg" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
                 <img src="img/lazare_amani1.jpg" alt="">
             </a>
 
         </swiper-slide>
 
         <swiper-slide>
-            <a href="img/lazare_amani3.jpg" data-fancybox data-caption="Can 2023 // Ivoirien">
+            <a href="img/lazare_amani3.jpg" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
                 <img src="img/lazare_amani3.jpg" alt="">
             </a>
 
         </swiper-slide>
 
         <swiper-slide>
-            <a href="img/lazare_amani5.jpg" data-fancybox data-caption="Can 2023 // Ivoirien">
+            <a href="img/lazare_amani5.jpg" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
                 <img src="img/lazare_amani5.jpg" alt="">
             </a>
 
         </swiper-slide>
 
         <swiper-slide>
-            <a href="img/ouss_dio1.png" data-fancybox data-caption="Can 2023 // Ivoirien">
+            <a href="img/ouss_dio1.png" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
                 <img src="img/ouss_dio1.png" alt="">
             </a>
 
         </swiper-slide>
 
         <swiper-slide>
-            <a href="img/lazare_amani6.jpg" data-fancybox data-caption="Can 2023 // Ivoirien">
+            <a href="img/lazare_amani6.jpg" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
                 <img src="img/lazare_amani6.jpg" alt="">
             </a>
 
