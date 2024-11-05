@@ -1,5 +1,5 @@
 <?php
-$title = "Les éléphants | singo";
+$title = "Les éléphants |wilfried Singo";
 ?>
 
 <?php include 'header.php' ?>
