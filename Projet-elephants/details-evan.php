@@ -1,3 +1,6 @@
+<?php
+$title = "Les éléphants | n'dicka";
+?>
 <?php include 'header.php' ?>
 
 

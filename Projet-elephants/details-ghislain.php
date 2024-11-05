@@ -1,3 +1,7 @@
+<?php
+$title = "Les éléphants | Konan";
+?>
+
 <?php include 'header.php' ?>
 
 
