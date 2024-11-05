@@ -318,6 +318,7 @@
 
     
 }
+
 @media (max-width:500px) {
     .background-staff h1 {
         color: orangered;
@@ -328,6 +329,76 @@
     .rondcarre {
         height: 110px;
         width: 420px;
+        background-color: white;
+        transform: translate(40px, -110px);
+    }
+
+    .emerse {
+        display: flex;
+        gap: 40px;
+        flex-direction: column;
+    }
+
+    .entraineurs {
+        display: flex;
+        gap: 40px;
+        flex-direction: column;
+    }
+
+    .preparateurs {
+        display: flex;
+        gap: 40px;
+        flex-direction: column;
+    }
+
+    
+}
+
+@media (max-width:430px) {
+    .background-staff h1 {
+        color: orangered;
+        font-size: 40px;
+        font-weight: 700;
+    }
+
+    .rondcarre {
+        height: 110px;
+        width: 350px;
+        background-color: white;
+        transform: translate(40px, -110px);
+    }
+
+    .emerse {
+        display: flex;
+        gap: 40px;
+        flex-direction: column;
+    }
+
+    .entraineurs {
+        display: flex;
+        gap: 40px;
+        flex-direction: column;
+    }
+
+    .preparateurs {
+        display: flex;
+        gap: 40px;
+        flex-direction: column;
+    }
+
+    
+}
+
+@media (max-width:300px) {
+    .background-staff h1 {
+        color: orangered;
+        font-size: 40px;
+        font-weight: 700;
+    }
+
+    .rondcarre {
+        height: 110px;
+        width: 315px;
         background-color: white;
         transform: translate(40px, -110px);
     }
