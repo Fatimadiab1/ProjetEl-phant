@@ -140,11 +140,11 @@ $title = "Les éléphants | joueurs";
               <div class="card card-body mb-3">
                   <ul class="list-unstyled text-center" style="color: orangered;">
                       <li><a href="details-seko.php">S.FOFANA</a></li>
-                      <li><a href="#">J.SERI</a></li>
-                      <li><a href="#">I.DOUMBIA</a></li>
+                      <li><a href="details-jeanmichael.php">J.SERI</a></li>
+                      <li><a href="details-idrissa.php">I.DOUMBIA</a></li>
                       <li><a href="details-ibrahim.php">I.SANGARE</a></li>
                       <li><a href="details-franck.php">F.KESSIE</a></li>
-                      <li><a href="#">L.AMANI</a></li>
+                      <li><a href="details-lazare.php">L.AMANI</a></li>
                   </ul>
               </div> 
           </div>
@@ -155,11 +155,11 @@ $title = "Les éléphants | joueurs";
                       <li><a href="details-evan.php">E.N'DICKA</a></li>
                       <li><a href="#">W.BOLLY</a></li>
                       <li><a href="details-odilon.php">O.KOSSONOU</a></li>
-                      <li><a href="#">O.DIOMANDE</a></li>
+                      <li><a href="details-ousmane.php">O.DIOMANDE</a></li>
                       <li><a href="details-wilfried.php">W.SINGO</a></li>
                       <li><a href="details-serge.php">S.AURIER</a></li>
                       <li><a href="details-ghislain.php">G.KONAN</a></li>
-                      <li><a href="#">I.DIALLO</a></li>
+                      <li><a href="details-idrissa.php">I.DIALLO</a></li>
                   </ul>
               </div>
           </div>
@@ -220,7 +220,7 @@ $title = "Les éléphants | joueurs";
     <div class="mdf" style="display: flex; justify-content: center; padding-top: 55px;">
       <div class="">
         <img src="img/maillot.png" alt="" style="height: 100px; width: 140px; ">
-      <p style="text-align: center;"><a href="" style="text-decoration: none;"><b>SERI</b></a></p>
+      <p style="text-align: center;"><a href="details-jeanmichael.php" style="text-decoration: none;"><b>SERI</b></a></p>
       </div>
 
     </div>
@@ -247,7 +247,7 @@ $title = "Les éléphants | joueurs";
 
       <div class="">
         <img src="img/maillot.png" alt="" style="height: 180px; width: 140px;  padding-top: 75px;">
-      <p style="text-align: center;"><a href="" style="text-decoration: none;"><b>KRASSO</b></a></p>
+      <p style="text-align: center;"><a href="details-jeanphilippe.php" style="text-decoration: none;"><b>KRASSO</b></a></p>
       </div>
 
       <div class="">
