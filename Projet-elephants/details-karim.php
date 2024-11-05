@@ -1,3 +1,7 @@
+<?php
+$title = "Les éléphants | Karim-Konate";
+?>
+
 <?php include 'header.php' ?>
 
 
