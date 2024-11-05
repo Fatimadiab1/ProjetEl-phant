@@ -1,4 +1,7 @@
-<?php include 'header.php' ?>
+
+<?php
+$title = "Les éléphants | Jeremie boga";
+?><?php include 'header.php' ?>
 
 
 <!-- background en dessous de la nav -->
