@@ -126,13 +126,13 @@
           <div id="section1" class="collapse">
               <div class="card card-body mb-3">
                   <ul class="list-unstyled text-center" style="color: orangered;">
-                      <li><a href="#">S.HALLER</a></li>
-                      <li><a href="#">J.KRASSO</a></li>
-                      <li><a href="#">S.ADINGRA</a></li>
+                      <li><a href="details-sebastien.php">S.HALLER</a></li>
+                      <li><a href="details-jeanphilippe.php">J.KRASSO</a></li>
+                      <li><a href="details-simon.php">S.ADINGRA</a></li>
                       <li><a href="details-jeremie.php">J.BOGA</a></li>
                       <li><a href="details-jonathan.php">J.BAMBA</a></li>
-                      <li><a href="#">N.PEPE</a></li>
-                      <li><a href="#">K.KONATE</a></li>
+                      <li><a href="details-nicolas.php">N.PEPE</a></li>
+                      <li><a href="details-karim.php">K.KONATE</a></li>
                       <li><a href="details-max.php">M.GRADEL</a></li>
                       <li><a href="details-oumar.php">O.DIAKITE</a></li>
                       <li><a href="details-christian.php">K.CHRISTAN</a></li>
@@ -146,23 +146,23 @@
                       <li><a href="details-seko.php">S.FOFANA</a></li>
                       <li><a href="#">J.SERI</a></li>
                       <li><a href="#">I.DOUMBIA</a></li>
-                      <li><a href="#">I.SANGARE</a></li>
-                      <li><a href="#">F.KESSIE</a></li>
+                      <li><a href="details-ibrahim.php">I.SANGARE</a></li>
+                      <li><a href="details-franck.php">F.KESSIE</a></li>
                       <li><a href="#">L.AMANI</a></li>
                   </ul>
-              </div>
+              </div> 
           </div>
   
           <div id="section3" class="collapse">
               <div class="card card-body mb-3">
                   <ul class="list-unstyled text-center " style="color: orangered;">
-                      <li><a href="#">E.N'DICKA</a></li>
+                      <li><a href="details-evan.php">E.N'DICKA</a></li>
                       <li><a href="#">W.BOLLY</a></li>
-                      <li><a href="#">O.KOSSONOU</a></li>
+                      <li><a href="details-odilon.php">O.KOSSONOU</a></li>
                       <li><a href="#">O.DIOMANDE</a></li>
-                      <li><a href="#">W.SINGO</a></li>
-                      <li><a href="#">S.AURIER</a></li>
-                      <li><a href="#">G.KONAN</a></li>
+                      <li><a href="details-wilfried.php">W.SINGO</a></li>
+                      <li><a href="details-serge.php">S.AURIER</a></li>
+                      <li><a href="details-ghislain.php">G.KONAN</a></li>
                       <li><a href="#">I.DIALLO</a></li>
                   </ul>
               </div>
@@ -200,22 +200,22 @@
 
       <div class="">
         <img src="img/maillot.png" alt="" style="height: 100px; width: 140px; ">
-      <p style="text-align: center;"><a href="" style="text-decoration: none;"><b>AURIER</b></a></p>
+      <p style="text-align: center;"><a href="details-serge.php" style="text-decoration: none;"><b>AURIER</b></a></p>
       </div>
 
       <div class="">
         <img src="img/maillot.png" alt="" style="height: 100px; width: 140px; ">
-      <p style="text-align: center;"><a href="" style="text-decoration: none;"><b>NDICKA</b></a></p>
+      <p style="text-align: center;"><a href="details-evan.php" style="text-decoration: none;"><b>NDICKA</b></a></p>
       </div>
 
       <div class="">
         <img src="img/maillot.png" alt="" style="height: 100px; width: 140px; ">
-      <p style="text-align: center;"><a href="" style="text-decoration: none;"><b>KOSSOUNOU</b></a></p>
+      <p style="text-align: center;"><a href="details-odilon.php" style="text-decoration: none;"><b>KOSSOUNOU</b></a></p>
       </div>
 
       <div class="">
         <img src="img/maillot.png" alt="" style="height: 100px; width: 140px; ">
-      <p style="text-align: center;"><a href="" style="text-decoration: none;"><b>KONAN</b></a></p>
+      <p style="text-align: center;"><a href="details-ghislain.php" style="text-decoration: none;"><b>KONAN</b></a></p>
       </div>
 
     </div>
@@ -238,7 +238,7 @@
 
         <div class="">
           <img src="img/maillot.png" alt="" style="height: 100px; width: 140px; ">
-        <p style="text-align: center;"><a href="" style="text-decoration: none;"><b>SANGARE</b></a></p>
+        <p style="text-align: center;"><a href="details-ibrahim.php" style="text-decoration: none;"><b>SANGARE</b></a></p>
         </div>
     </div>
 
@@ -246,7 +246,7 @@
     <div class="center" style="display: flex;justify-content: space-around; padding-top: 25px; text-align: center;">
       <div class="">
       <img src="img/maillot.png" alt="" style="height: 100px; width: 140px; ">
-      <p style="text-align: center;"><a href="" style="text-decoration: none;"><b>ADINGRA</b></a></p>
+      <p style="text-align: center;"><a href="details-simon.php" style="text-decoration: none;"><b>ADINGRA</b></a></p>
       </div>
 
       <div class="">

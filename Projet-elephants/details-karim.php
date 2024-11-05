@@ -16,19 +16,18 @@
 <div class="firstsection-player">
 
     <div class="picture-player">
-        <img class="pic" src="img/` serge aurier.jpg" alt="">
+        <img class="pic" src="img/karimm_konate.55.jpg" alt="">
     </div>
 
     <div class="info-player">
         <h2 class="name">Konaté <br>Karim</h2>
         <br>
         <p class="description">
-            Serge Aurier, né le 24 décembre 1992 en Côte d'Ivoire, est un footballeur <br> professionnel reconnu pour son talent et sa polyvalence</p>
+            Karim Konaté, né le 21 mars 2004 à Koumassi en Côte d'Ivoire, <br> est un footballeur international ivoirien. <br> Il joue au poste d'attaquant au RB Salzbourg.</p>
         <br>
 
         <p class="description">
-            Lors de la Coupe d'Afrique des Nations (CAN) 2023, Serge Aurier a disputé <br> quatre matchs avec l'équipe nationale de Côte d'Ivoire. Il a contribué, <br> en marquant un but et en délivrant une passe décisive durant le tournoi. <br>  Aurier a été un joueur clé, apportant son expérience et son leadership à l'équipe, <br> ce qui a été particulièrement apprécié pendant la compétition​ SOFASCORE. <br>
-            Pour plus de détails, vous pouvez consulter les statistiques de Serge Aurier sur <br> des sites spécialisés.
+            Karim Konaté a joué un rôle actif pour la Côte d'Ivoire <br> lors de la Coupe d'Afrique des Nations (CAN) 2023. <br>Durant le tournoi, Konaté a été titularisé pour trois matchs, <br> mais il n'a pas marqué de but ni réalisé de passe décisive. <br> À seulement 20 ans, il a néanmoins contribué par sa présence <br> et son implication sur le terrain, bien qu'il n'ait pas eu d'impact <br> statistique notable en termes de buts ou d'assists pendant cette compétition.
         </p>
 
     </div>
@@ -40,20 +39,20 @@
 
     <div class="palmares">
         <h3 class="titre-palmares">MATCHES AVEC <br> LA COTE D'IVOIRE</h3>
-        <p class="nbr">4</p>
-        <p class="saison">SAISON 2024/2025 <span>4</span></p>
+        <p class="nbr">17</p>
+        <p class="saison">SAISON 2024/2025 <span>17</span></p>
     </div>
 
     <div class="palmares">
         <h3 class="titre-palmares">BUTS AVEC LA <br>COTE D'IVOIRE</h3>
-        <p class="nbr">01</p>
-        <p class="saison">SAISON 2024/2025<span>01</span></p>
+        <p class="nbr">02</p>
+        <p class="saison">SAISON 2024/2025<span>02</span></p>
     </div>
 
     <div class="palmares">
         <h3 class="titre-palmares">PASSES DECISIVES AVEC <br> LA COTE D'IVOIRE</h3>
-        <p class="nbr">01</p>
-        <p class="saison">SAISON 2024/2025 <span>01</span></p>
+        <p class="nbr">00</p>
+        <p class="saison">SAISON 2024/2025 <span>00</span></p>
     </div>
 
 </div>
@@ -65,23 +64,23 @@
 <div class="thirdsection-player">
 
     <div class="image-container">
-        <img src="img/Serge-Aurier_6.jpg" alt="Konaté Karim" class="imgplayer">
+        <img src="img/karim_konaté.jpeg.1.jpg" alt="Konaté Karim" class="imgplayer">
         <div class="overlay">
-            <h2 class="overlay-text">Carrière en club : Aurier a joué pour des clubs prestigieux tels que le Paris Saint-Germain.</h2>
+            <h2 class="overlay-text">Karim Konaté joue actuellement pour le Red Bull Salzbourg, un club autrichien de première division.</h2>
         </div>
     </div>
 
     <div class="image-container">
-        <img src="img/serge_aurier_2.jpg" alt="Konaté Karim" class="imgplayer">
+        <img src="img/karim_konaté.jpeg.3jpg.jpg" alt="Konaté Karim" class="imgplayer">
         <div class="overlay">
-            <h2 class="overlay-text">Capitaine de l'équipe nationale : Il est le capitaine de l'équipe nationale de Côte d'Ivoire.</h2>
+            <h2 class="overlay-text">Karim Konaté a été un joueur important pour la Côte d'Ivoire lors de la Coupe d'Afrique des Nations 2023.</h2>
         </div>
     </div>
 
     <div class="image-container">
-        <img src="img/serge_aurier_3.jpg" alt="Konaté Karim" class="imgplayer">
+        <img src="img/karimmmmmmmmmmmmmmm.jpg" alt="Konaté Karim" class="imgplayer">
         <div class="overlay">
-            <h2 class="overlay-text">Impact en CAN 2023 : Lors de la dernière CAN, il a marqué un but et délivré une passe décisive en quatre matchs.</h2>
+            <h2 class="overlay-text">Jeune talent issu de l'ASEC Mimosas : Karim Konaté a débuté sa carrière à l'ASEC Mimosas.  </h2>
         </div>
     </div>
 
@@ -92,43 +91,43 @@
     <swiper-container class="mySwiper" slides-per-view="3" centered-slides="true" space-between="30" pagination="true"
         pagination-type="fraction" navigation="true" style="margin-top: 40px;margin-bottom:40px;">
         <swiper-slide>
-            <a href="img/aurierrrrrrrrrrrrrrrrrrrrrrrrrr.jpg" data-fancybox data-caption="Konaté Karim">
-                <img src="img/aurierrrrrrrrrrrrrrrrrrrrrrrrrr.jpg" alt="">
+            <a href="img/mercato karim.jpg" data-fancybox data-caption="Konaté Karim">
+                <img src="img/mercato karim.jpg" alt="">
             </a>
 
         </swiper-slide>
 
         <swiper-slide>
-            <a href="img/Serge-Aurier-vers-une-nouvelle-destination-675x375.jpg" data-fancybox data-caption="Konaté Karim">
-                <img src="img/Serge-Aurier-vers-une-nouvelle-destination-675x375.jpg" alt="">
+            <a href="img/konate.jpg.588.jpg" data-fancybox data-caption="Konaté Karim">
+                <img src="img/konate.jpg.588.jpg" alt="">
             </a>
 
         </swiper-slide>
 
         <swiper-slide>
-            <a href="img/Serge-Aurier-1804030.jpg" data-fancybox data-caption="Konaté Karim">
-                <img src="img/Serge-Aurier-1804030.jpg" alt="">
+            <a href="img/Karim-Konate-011.webp" data-fancybox data-caption="Konaté Karim">
+                <img src="img/Karim-Konate-011.webp" alt="">
             </a>
 
         </swiper-slide>
 
         <swiper-slide>
-            <a href="img/aurierser.jpg" data-fancybox data-caption="Konaté Karim">
-                <img src="img/aurierser.jpg" alt="">
+            <a href="img/konate_karim544.jpg" data-fancybox data-caption="Konaté Karim">
+                <img src="img/konate_karim544.jpg" alt="">
             </a>
 
         </swiper-slide>
 
         <swiper-slide>
-            <a href="img/Aurier-CI-nvo.jpg" data-fancybox data-caption="Konaté Karim">
-                <img src="img/Aurier-CI-nvo.jpg" alt="">
+            <a href="img/karim_14.jpg" data-fancybox data-caption="Konaté Karim">
+                <img src="img/karim_14.jpg" alt="">
             </a>
 
         </swiper-slide>
 
         <swiper-slide>
-            <a href="img/aurierforfait_0.jpg" data-fancybox data-caption="Konaté Karim">
-                <img src="img/aurierforfait_0.jpg" alt="">
+            <a href="img/konate.jpg.588.jpg" data-fancybox data-caption="Konaté Karim">
+                <img src="img/konate.jpg.588.jpg" alt="">
             </a>
 
         </swiper-slide>

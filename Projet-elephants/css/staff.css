@@ -1,0 +1,164 @@
+.background-staff {
+    background-image: url('../img/equipeci.jpg');
+    height: 350px;
+    width: auto;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.background-staff h1 {
+    color: orangered;
+    font-size: 50px;
+    font-weight: 700;
+}
+
+.rondcarre {
+    height: 120px;
+    width: 1350px;
+    background-color: white;
+    transform: translate(50px, -110px);
+    border-radius: 50px 50px 0 0;
+}
+
+.staff {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    display: flex;
+    flex-direction: column;
+    gap: 70px;
+    align-items: center;
+    justify-content: center;
+}
+
+.emerse {
+    display: flex;
+    gap: 70px;
+}
+
+.emerse div {
+    height: 320px;
+    width: 250px;
+    background-color: #9cae9f;
+}
+
+.entraineurs {
+    display: flex;
+    gap: 70px;
+}
+
+.entraineurs div {
+    height: 320px;
+    width: 250px;
+    background-color: #9cae9f;
+}
+
+.preparateurs {
+    display: flex;
+    gap: 70px;
+}
+
+.preparateurs div {
+    height: 320px;
+    width: 250px;
+    background-color: #9cae9f;
+}
+
+
+@media only screen and (max-width: 800px) {
+
+    .background-staff h1 {
+        color: orangered;
+        font-size: 50px;
+        font-weight: 700;
+    }
+
+    .rondcarre {
+        height: 110px;
+        width: 600px;
+        background-color: white;
+        transform: translate(50px, -110px);
+    }
+
+    .emerse {
+        display: flex;
+        gap: 70px;
+        flex-direction: column;
+    }
+    .entraineurs {
+        display: flex;
+        gap: 70px;
+        flex-direction: column;
+    }
+    .preparateurs {
+        display: flex;
+        gap: 70px;
+        flex-direction: column;
+    }
+
+}
+
+@media (max-width:1100px) {
+    .background-staff h1 {
+        color: orangered;
+        font-size: 50px;
+        font-weight: 700;
+    }
+
+    .rondcarre {
+        height: 110px;
+        width: 750px;
+        background-color: white;
+        transform: translate(50px, -110px);
+    }
+
+    .emerse {
+        display: flex;
+        gap: 70px;
+        flex-direction: column;
+    }
+    .entraineurs {
+        display: flex;
+        gap: 70px;
+        flex-direction: column;
+    }
+    .preparateurs {
+        display: flex;
+        gap: 70px;
+        flex-direction: column;
+    }
+}
+
+@media (max-width:600px) {
+    .background-staff h1 {
+        color: orangered;
+        font-size: 50px;
+        font-weight: 700;
+    }
+
+    .rondcarre {
+        height: 110px;
+        width: 500px;
+        background-color: white;
+        transform: translate(40px, -110px);
+    }
+
+    .emerse {
+        display: flex;
+        gap: 70px;
+        flex-direction: column;
+    }
+    .entraineurs {
+        display: flex;
+        gap: 70px;
+        flex-direction: column;
+    }
+    .preparateurs {
+        display: flex;
+        gap: 70px;
+        flex-direction: column;
+    }
+}
