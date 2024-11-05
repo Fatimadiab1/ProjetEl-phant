@@ -134,8 +134,8 @@
                       <li><a href="#">N.PEPE</a></li>
                       <li><a href="#">K.KONATE</a></li>
                       <li><a href="details-max.php">M.GRADEL</a></li>
-                      <li><a href="#">O.DIAKITE</a></li>
-                      <li><a href="#">K.CHRISTAN</a></li>
+                      <li><a href="details-oumar.php">O.DIAKITE</a></li>
+                      <li><a href="details-christian.php">K.CHRISTAN</a></li>
                   </ul>
               </div>
           </div>
