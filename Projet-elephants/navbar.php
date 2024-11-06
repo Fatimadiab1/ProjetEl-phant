@@ -29,7 +29,7 @@
           <li><a href="index.php">Accueil</a></li>
           <li><a href="joueurs-accueil.php">Joueurs</a></li>
           <li><a href="apropos.php">A propos</a></li>
-          <li><a href="">historique</a></li>
+          <li><a href="historique.php">historique</a></li>
         </ul>
       </div>
     </div>
