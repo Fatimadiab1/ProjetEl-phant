@@ -21,7 +21,7 @@ $title = "Les éléphants | Yahia Fofana";
     <div class="picture-player">
         <img class="pic" src="img/yahia_champion.jpg" alt="">
     </div>
-
+8a090076876e4210d49
     <div class="info-player">
         <h2 class="name">Yahia <br> FOFANA</h2>
         <br>
