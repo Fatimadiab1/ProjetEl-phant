@@ -25,13 +25,26 @@
 .titre-position {
     font-family: "Montserrat", sans-serif;
     font-weight: 900;
-    color: orangered;
+    color: goldenrod;
 }
 
 /* Première section */
-.pic {
-    width: 320px;
-}
+.picture-player {
+    width: 200px; 
+    height: 200px;
+    overflow: hidden; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .pic {
+    width: 100%; 
+    height: 100%;
+    object-fit: cover;
+    border-radius: 10px; 
+  }
+  
 
 .info-player {
     padding-top: 3px; 
