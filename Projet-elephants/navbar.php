@@ -28,7 +28,7 @@
         <ul>
           <li><a href="index.php">Accueil</a></li>
           <li><a href="joueurs-accueil.php">Joueurs</a></li>
-          <li><a href="">A propos</a></li>
+          <li><a href="apropos.php">A propos</a></li>
           <li><a href="">historique</a></li>
         </ul>
       </div>
