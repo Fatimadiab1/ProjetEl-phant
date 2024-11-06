@@ -65,7 +65,6 @@
   cursor: pointer;
 }
 
-/* Responsive styles */
 @media (max-width: 768px) {
   .link ul {
     display: none;
