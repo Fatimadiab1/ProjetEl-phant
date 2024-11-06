@@ -27,4 +27,7 @@ $title = "Les éléphants | Historique";
     <div class="petit_container_hist2">2024</div>
 </div>
 </div><br>
+
+<!-- Bouton retour en haut -->
+<button onclick="scrollToTop()" id="backToTopBtn" title="Retour en haut">↑</button>
 <?php include 'footer.php' ?>

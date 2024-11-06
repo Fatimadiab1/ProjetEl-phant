@@ -67,4 +67,7 @@ body {
 
 
 
+
+<!-- Bouton retour en haut -->
+<button onclick="scrollToTop()" id="backToTopBtn" title="Retour en haut">↑</button>
 <?php include 'footer.php' ?>

@@ -40,10 +40,10 @@
       <div class="col-lg col">
         <h5 class="footer-text">REJOIGNEZ-NOUS</h5>
         <div class="social-icons footer-text">
-          <a href="https://www.facebook.com/federationivoiriennedefootball/?locale=fr_FR" target="_blank"><i class="fab fa-facebook-f"></i></a>
-          <a href="https://www.instagram.com/fif.ci/?hl=fr" target="_blank"><i class="fab fa-instagram"></i></a>
-          <a href="https://x.com/saedeciv"target="_blank"><i class="fab fa-twitter"></i></a>
-          <a href="https://www.youtube.com/@fifci"target="_blank"><i class="fab fa-youtube"></i></a>
+          <a href="#"><i class="fab fa-facebook-f"></i></a>
+          <a href="#"><i class="fab fa-instagram"></i></a>
+          <a href="#"><i class="fab fa-twitter"></i></a>
+          <a href="#"><i class="fab fa-youtube"></i></a>
         </div>
         <img src="img/FIF_Co╠éte_d'Ivoire_logo.png" alt="Votre image" class="footer-image">
       </div>
@@ -81,6 +81,10 @@
   AOS.init();
 </script>
 
+
+
+
+
 <script>
   Fancybox.bind("[data-fancybox]", {
     // Your custom options
@@ -88,4 +92,59 @@
 </script>
 
 
+
+<!-- Bouton revenir en haut de page  -->
+<script>
+  // Fonction d'affichage/masquage du bouton lors du défilement
+  window.onscroll = function() {
+    const backToTopBtn = document.getElementById("backToTopBtn");
+    if (document.body.scrollTop > 200 || document.documentElement.scrollTop > 200) {
+      backToTopBtn.classList.add("show");
+      backToTopBtn.classList.remove("hide");
+    } else {
+      backToTopBtn.classList.add("hide");
+      backToTopBtn.classList.remove("show");
+    }
+  };
+
+  // Fonction de défilement en douceur vers le haut de la page
+  function scrollToTop() {
+    window.scrollTo({
+      top: 0,
+      behavior: "smooth"
+    });
+  }
+</script>
+
 </html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
