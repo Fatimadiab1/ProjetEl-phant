@@ -458,10 +458,11 @@ button{
 }
 
 .footer-bg {
-    background-color: #004d00;
+    background-color: #04340E;
 }
 .footer-text {
     color: white;
+    font-family: "Montserrat", sans-serif;
     
 }
 .social-icons i {
@@ -478,6 +479,11 @@ button{
     color: white; 
     text-decoration: none; 
 }
+
+.footer-text ul li {
+    margin-bottom: 5px; /* Ajustez la valeur selon vos besoins */
+  }
+  
 .footer-text a:hover {
     text-decoration: underline; 
 }
