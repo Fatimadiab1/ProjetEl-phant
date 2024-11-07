@@ -9,7 +9,7 @@
     molestias.
     <br><br>
     <div class="boutton">
-        <button class="boutton1">En savoir plus</button>
+    <a href="historique.php"> <button class="boutton1">En savoir plus</button></a>   
     </div>
 </div>
-</div>
+</div> 

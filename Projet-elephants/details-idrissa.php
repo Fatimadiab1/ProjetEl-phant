@@ -28,10 +28,13 @@
         <br>
         <br>
         <p class="description">
-            Idrissa Doumbia, un milieu de terrain ivoirien de 25 ans, est actuellement sous contrat <br>
-            avec Al Ahli SC au Qatar.Doumbia a quitté le Sporting CP au Portugal pour rejoindre Al Ahli en 2023 <br>
-            marquant une nouvelle étape dans sa carrière après des passages dans plusieurs  <br>
-            clubs européens. Avant de s'installer au Qatar  il a évolué à Alanyaspor en Turquie, et en Belgique avec SV Zulte Waregem. <br>
+            Idrissa Doumbia, un milieu de terrain ivoirien de 25 ans,<br>
+             est actuellement sous contrat avec Al Ahli SC au Qatar. <br>
+             Doumbia a quitté le Sporting CP au Portugal pour rejoindre <br>
+              Al Ahli en 2023<br> marquant une nouvelle étape dans sa <br>
+              carrière après des passages dans plusieurs clubs européens.<br>
+               Avant de s'installer au Qatar  il a évolué à Alanyaspor en <br>
+                Turquie, et en Belgique avec SV Zulte Waregem. <br>
             Sur le plan international, Doumbia a fait partie de l'équipe U23 de Côte d'Ivoire  <br>
         </p>
 
@@ -96,15 +99,15 @@
     <swiper-container class="mySwiper" slides-per-view="3" centered-slides="true" space-between="30" pagination="true"
         pagination-type="fraction" navigation="true" style="margin-top: 40px;margin-bottom:40px;">
         <swiper-slide>
-            <a href="img/idrissa.jpeg" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
-                <img src="img/idrissa.jpeg" alt="">
+            <a href="img/idrissa7.jpg" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
+                <img src="img/idrissa7.jpg" alt="">
             </a>
 
         </swiper-slide>
 
         <swiper-slide>
-            <a href="img/idrissa1.jpeg" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
-                <img src="img/idrissa1.jpeg" alt="">
+            <a href="img/idrissa9.jpg" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
+                <img src="img/idrissa9.jpg" alt="">
             </a>
 
         </swiper-slide>
@@ -117,22 +120,22 @@
         </swiper-slide>
 
         <swiper-slide>
-            <a href="img/idrissa.jpeg" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
-                <img src="img/idrissa.jpeg" alt="">
+            <a href="img/idrissa10.jpeg" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
+                <img src="img/idrissa10.jpeg" alt="">
             </a>
 
         </swiper-slide>
 
         <swiper-slide>
-            <a href="img/idrissa1.jpeg" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
-                <img src="img/idrissa1.jpeg" alt="">
+            <a href="img/idrissa11.jpg" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
+                <img src="img/idrissa11.jpg" alt="">
             </a>
 
         </swiper-slide>
 
         <swiper-slide>
-            <a href="img/idrissa.jpeg" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
-                <img src="img/idrissa.jpeg" alt="">
+            <a href="img/idrissa12.jpg" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
+                <img src="img/idrissa12.jpg" alt="">
             </a>
 
         </swiper-slide>
