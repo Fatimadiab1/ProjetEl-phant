@@ -1,7 +1,8 @@
 
 .footer-bg {
     background-color: #04340E;
-    padding: 20px; 
+    padding: 20px;
+    min-height: 100px;
 }
 
 .footer-text {
@@ -62,15 +63,27 @@
 }
 
 @media (max-width: 576px) {
+    .footer-bg {
+        min-height: 150px; /* Augmente la hauteur minimale sur mobile */
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+
     .footer-text {
-        font-size: 12px; 
+        font-size: 14px;
+    }
+
+    .social-icons i {
+        font-size: 20px;
+        margin-right: 10px;
     }
 
     .footer-image img {
-        width: 100px; 
+        width: 80px;
+        margin-top: 10px; /* Ajoute un peu d'espace entre l'image et le texte */
     }
 }
-
 .container {
     display: flex; 
     flex-direction: column; 
