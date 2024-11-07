@@ -457,37 +457,6 @@ button{
     }
 }
 
-.footer-bg {
-    background-color: #04340E;
-}
-.footer-text {
-    color: white;
-    font-family: "Montserrat", sans-serif;
-    
-}
-.social-icons i {
-    margin-right: 15px;
-    font-size: 24px;
-    color: white;
-}
-.footer-image {
-    margin-top: 15px;
-    max-width: 100%; 
-    height: auto; 
-}
-.footer-text a {
-    color: white; 
-    text-decoration: none; 
-}
-
-.footer-text ul li {
-    margin-bottom: 5px; /* Ajustez la valeur selon vos besoins */
-  }
-  
-.footer-text a:hover {
-    text-decoration: underline; 
-}
-
 .image_debut{
     width: 100%;
     height: 70vh;
