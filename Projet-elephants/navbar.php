@@ -5,7 +5,7 @@
     <a href="index.php"><img src="img/OIP (6).png" alt="cost" /></a>
     <span>
       <h2 style="color: white">CÔTE D'IVOIRE</h2>
-      <h4 class="elephants-title">Les Elephants</h4>
+      <h4 class="elephants-title">Les Éléphants</h4>
     </span>
   </div>
   <div class="bb"></div>

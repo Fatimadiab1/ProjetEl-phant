@@ -121,5 +121,7 @@
     menu.classList.toggle("show");
   }
 </script>
+<!-- Bouton retour en haut -->
+<button onclick="scrollToTop()" id="backToTopBtn" title="Retour en haut">↑</button> 
 
 </html>
