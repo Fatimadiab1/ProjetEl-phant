@@ -21,6 +21,7 @@
 <link rel="stylesheet" href="css/style.css">
 <link rel="stylesheet" href="css/joueur.css?v=1.0">
   <link rel="stylesheet" href="css/staff.css">
+  <link rel="stylesheet" href="css/footer.css">
 </head>
 
 <body>
