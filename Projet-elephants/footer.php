@@ -40,12 +40,13 @@
       <div class="col-lg col">
         <h5 class="footer-text">REJOIGNEZ-NOUS</h5>
         <div class="social-icons footer-text">
-          <a href="#"><i class="fab fa-facebook-f"></i></a>
-          <a href="#"><i class="fab fa-instagram"></i></a>
-          <a href="#"><i class="fab fa-twitter"></i></a>
-          <a href="#"><i class="fab fa-youtube"></i></a>
+        <a href="https://www.facebook.com/federationivoiriennedefootball/?locale=fr_FR" target="_blank"><i class="fab fa-facebook-f"></i></a>
+          <a href="https://www.instagram.com/fif.ci/?hl=fr" target="_blank"><i class="fab fa-instagram"></i></a>
+          <a href="https://x.com/saedeciv"target="_blank"><i class="fab fa-twitter"></i></a>
+          <a href="https://www.youtube.com/@fifci"target="_blank"><i class="fab fa-youtube"></i></a>
         </div>
-        <img src="img/FIF_Co╠éte_d'Ivoire_logo.png" alt="Votre image" class="footer-image">
+        <div clas="footer-image"><img src="img/FIF_Co╠éte_d'Ivoire_logo.png" alt="Votre image"></div>
+        
       </div>
     </div>
   </div>
@@ -121,5 +122,7 @@
     menu.classList.toggle("show");
   }
 </script>
+<!-- Bouton retour en haut -->
+<button onclick="scrollToTop()" id="backToTopBtn" title="Retour en haut">↑</button> 
 
 </html>
