@@ -6,7 +6,7 @@
         <div class="col-md-6" style="background-color: orangered">
             <div class="card-body">
                 <h5 class="card-title">Les éléphants</h5>
-                <h4><a href="#" style="color: white; text-decoration: none; font-weight: bold;">Membres de l'équipe.</a></h4>
+                <h4><a href="joueurs-accueil.php" style="color: white; text-decoration: none; font-weight: bold;">Membres de l'équipe.</a></h4>
                 <div class="drapci">
                     <span></span>
                     <span></span>
