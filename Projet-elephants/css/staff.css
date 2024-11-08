@@ -425,7 +425,7 @@
     
 }
 
-@media (min-width:300px) {
+@media (max-width:300px) {
     .background-staff h1 {
         color: orangered;
         font-size: 40px;
