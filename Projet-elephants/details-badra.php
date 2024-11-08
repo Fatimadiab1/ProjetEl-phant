@@ -103,28 +103,28 @@ $title = "Les éléphants | Badra Ali";
         pagination-type="fraction" navigation="true" style="margin-top: 40px;margin-bottom:40px;">
         <swiper-slide>
             <a href="img/badra1.png" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
-                <img src="img/badra1.png" alt="">
+                <img style="max-width: 300px; height:300px" src="img/badra1.png" alt="">
             </a>
 
         </swiper-slide>
 
         <swiper-slide>
             <a href="img/badra2.jpeg" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
-                <img src="img/badra2.jpeg" alt="">
+                <img style="max-width: 300px; height:300px" src="img/badra2.jpeg" alt="">
             </a>
 
         </swiper-slide>
 
         <swiper-slide>
             <a href="img/badra3.webp" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
-                <img src="img/badra3.webp" alt="">
+                <img style="max-width: 300px; height:300px" src="img/badra3.webp" alt="">
             </a>
 
         </swiper-slide>
 
         <swiper-slide>
             <a href="img/badra4.png" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
-                <img src="img/badra4.png" alt="">
+                <img style="max-width: 300px; height:300px" src="img/badra4.png" alt="">
             </a>
 
         </swiper-slide>

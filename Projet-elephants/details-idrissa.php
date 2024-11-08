@@ -100,42 +100,42 @@
         pagination-type="fraction" navigation="true" style="margin-top: 40px;margin-bottom:40px;">
         <swiper-slide>
             <a href="img/idrissa7.jpg" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
-                <img src="img/idrissa7.jpg" alt="">
+                <img style="max-width: 300px; height:300px" src="img/idrissa7.jpg" alt="">
             </a>
 
         </swiper-slide>
 
         <swiper-slide>
             <a href="img/idrissa9.jpg" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
-                <img src="img/idrissa9.jpg" alt="">
+                <img style="max-width: 300px; height:300px" src="img/idrissa9.jpg" alt="">
             </a>
 
         </swiper-slide>
 
         <swiper-slide>
             <a href="img/idrissa6.jpg" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
-                <img src="img/idrissa6.jpg" alt="">
+                <img style="max-width: 300px; height:300px" src="img/idrissa6.jpg" alt="">
             </a>
 
         </swiper-slide>
 
         <swiper-slide>
             <a href="img/idrissa10.jpeg" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
-                <img src="img/idrissa10.jpeg" alt="">
+                <img style="max-width: 300px; height:300px" src="img/idrissa10.jpeg" alt="">
             </a>
 
         </swiper-slide>
 
         <swiper-slide>
             <a href="img/idrissa11.jpg" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
-                <img src="img/idrissa11.jpg" alt="">
+                <img style="max-width: 300px; height:300px" src="img/idrissa11.jpg" alt="">
             </a>
 
         </swiper-slide>
 
         <swiper-slide>
             <a href="img/idrissa12.jpg" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
-                <img src="img/idrissa12.jpg" alt="">
+                <img style="max-width: 300px; height:300px" src="img/idrissa12.jpg" alt="">
             </a>
 
         </swiper-slide>

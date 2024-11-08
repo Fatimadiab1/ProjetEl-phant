@@ -99,42 +99,42 @@ $title = "Les éléphants | Jean Philippe KRASSO";
         pagination-type="fraction" navigation="true" style="margin-top: 40px;margin-bottom:40px;">
         <swiper-slide>
             <a href="img/kra1.jpg" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
-                <img src="img/kra1.jpg" alt="">
+                <img style="max-width: 300px; height:300px" src="img/kra1.jpg" alt="">
             </a>
 
         </swiper-slide>
 
         <swiper-slide>
             <a href="img/kra2.jpg" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
-                <img src="img/kra2.jpg" alt="">
+                <img style="max-width: 300px; height:300px" src="img/kra2.jpg" alt="">
             </a>
 
         </swiper-slide>
 
         <swiper-slide>
             <a href="img/kra3.jpg" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
-                <img src="img/kra3.jpg" alt="">
+                <img style="max-width: 300px; height:300px" src="img/kra3.jpg" alt="">
             </a>
 
         </swiper-slide>
 
         <swiper-slide>
             <a href="img/kra4.jpg" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
-                <img src="img/kra4.jpg" alt="">
+                <img style="max-width: 300px; height:300px" src="img/kra4.jpg" alt="">
             </a>
 
         </swiper-slide>
 
         <swiper-slide>
             <a href="img/kra5.png" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
-                <img src="img/kra5.png" alt="">
+                <img style="max-width: 300px; height:300px" src="img/kra5.png" alt="">
             </a>
 
         </swiper-slide>
 
         <swiper-slide>
             <a href="img/kra6.jpg" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
-                <img src="img/kra6.jpg" alt="">
+                <img style="max-width: 300px; height:300px" src="img/kra6.jpg" alt="">
             </a>
 
         </swiper-slide>

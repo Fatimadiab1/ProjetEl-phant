@@ -106,42 +106,42 @@ $title = "Les éléphants |wilfried Singo";
       pagination-type="fraction" navigation="true" style="margin-top: 40px;margin-bottom:40px;">
       <swiper-slide>
           <a href="img/singo1.jpg" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
-              <img src="img/singo1.jpg" alt="">
+              <img style="max-width: 300px; height:300px"  src="img/singo1.jpg" alt="">
           </a>
          
       </swiper-slide>
 
       <swiper-slide>
           <a href="img/singo2.jpeg" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
-              <img src="img/singo2.jpeg" alt="">
+              <img style="max-width: 300px; height:300px"  src="img/singo2.jpeg" alt="">
           </a>
           
       </swiper-slide>
 
       <swiper-slide>
           <a href="img/singo3.jpeg" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
-              <img src="img/singo3.jpeg" alt="">
+              <img style="max-width: 300px; height:300px"  src="img/singo3.jpeg" alt="">
           </a>
 
       </swiper-slide>
 
       <swiper-slide>
           <a href="img/singo4.jpeg" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
-              <img src="img/singo4.jpeg" alt="">
+              <img style="max-width: 300px; height:300px"  src="img/singo4.jpeg" alt="">
           </a>
    
       </swiper-slide>
 
       <swiper-slide>
           <a href="img/singo5.jpeg" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
-              <img src="img/singo5.jpeg" alt="">
+              <img style="max-width: 300px; height:300px"  src="img/singo5.jpeg" alt="">
           </a>
 
       </swiper-slide>
 
       <swiper-slide>
           <a href="img/singo2.jpeg" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
-              <img src="img/singo2.jpeg" alt="">
+              <img style="max-width: 300px; height:300px"  src="img/singo2.jpeg" alt="">
           </a>
 
       </swiper-slide>

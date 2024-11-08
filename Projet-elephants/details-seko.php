@@ -99,42 +99,42 @@ $title = "Les éléphants | Seko Fofana";
       pagination-type="fraction" navigation="true" style="margin-top: 40px;margin-bottom:40px;">
       <swiper-slide>
           <a href="img/seko1.jpg" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
-              <img src="img/seko1.jpg" alt="">
+              <img style="max-width: 300px; height:300px"  src="img/seko1.jpg" alt="">
           </a>
          
       </swiper-slide>
 
       <swiper-slide>
           <a href="img/seko2.jpg" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
-              <img src="img/seko2.jpg" alt="">
+              <img style="max-width: 300px; height:300px" src="img/seko2.jpg" alt="">
           </a>
           
       </swiper-slide>
 
       <swiper-slide>
           <a href="img/seko3.jpg" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
-              <img src="img/seko3.jpg" alt="">
+              <img style="max-width: 300px; height:300px"  src="img/seko3.jpg" alt="">
           </a>
 
       </swiper-slide>
 
       <swiper-slide>
           <a href="img/seko4.jpg" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
-              <img src="img/seko4.jpg" alt="">
+              <img style="max-width: 300px; height:300px"  src="img/seko4.jpg" alt="">
           </a>
    
       </swiper-slide>
 
       <swiper-slide>
           <a href="img/seko5.jpg" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
-              <img src="img/seko5.jpg" alt="">
+              <img style="max-width: 300px; height:300px"  src="img/seko5.jpg" alt="">
           </a>
 
       </swiper-slide>
 
       <swiper-slide>
           <a href="img/seko6.jpg" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
-              <img src="img/seko6.jpg" alt="">
+              <img style="max-width: 300px; height:300px"  src="img/seko6.jpg" alt="">
           </a>
 
       </swiper-slide>

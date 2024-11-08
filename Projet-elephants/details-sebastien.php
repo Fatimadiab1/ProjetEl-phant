@@ -99,42 +99,42 @@ $title = "Les éléphants | Sébastien HALLER";
         pagination-type="fraction" navigation="true" style="margin-top: 40px;margin-bottom:40px;">
         <swiper-slide>
             <a href="img/hallercar1.jpg" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
-                <img src="img/hallercar1.jpg" alt="">
+                <img style="max-width: 300px; height:300px"  src="img/hallercar1.jpg" alt="">
             </a>
 
         </swiper-slide>
 
         <swiper-slide>
             <a href="img/hallercar2.jpg" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
-                <img src="img/hallercar2.jpg" alt="">
+                <img style="max-width: 300px; height:300px"  src="img/hallercar2.jpg" alt="">
             </a>
 
         </swiper-slide>
 
         <swiper-slide>
             <a href="img/hallercar3.jpg" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
-                <img src="img/hallercar3.jpg" alt="">
+                <img style="max-width: 300px; height:300px"  src="img/hallercar3.jpg" alt="">
             </a>
 
         </swiper-slide>
 
         <swiper-slide>
             <a href="img/hallercar4.jpg" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
-                <img src="img/hallercar4.jpg" alt="">
+                <img style="max-width: 300px; height:300px" src="img/hallercar4.jpg" alt="">
             </a>
 
         </swiper-slide>
 
         <swiper-slide>
             <a href="img/hallercar5.jpg" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
-                <img src="img/hallercar5.jpg" alt="">
+                <img style="max-width: 300px; height:300px" src="img/hallercar5.jpg" alt="">
             </a>
 
         </swiper-slide>
 
         <swiper-slide>
             <a href="img/hallercar6.jpg" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
-                <img src="img/hallercar6.jpg" alt="">
+                <img style="max-width: 300px; height:300px"  src="img/hallercar6.jpg" alt="">
             </a>
 
         </swiper-slide>

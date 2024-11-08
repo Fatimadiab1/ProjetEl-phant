@@ -99,42 +99,42 @@ cohésion de l'équipe a été essentielle pour le succès de la Côte d'Ivoire 
       pagination-type="fraction" navigation="true" style="margin-top: 40px;margin-bottom:40px;">
       <swiper-slide>
           <a href="img/max-gradel1.png" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
-              <img src="img/max-gradel1.png" alt="">
+              <img style="max-width: 300px; height:300px" src="img/max-gradel1.png" alt="">
           </a>
          
       </swiper-slide>
 
       <swiper-slide>
           <a href="img/maxalaingradel.png" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
-              <img src="img/maxalaingradel.png" alt="">
+              <img style="max-width: 300px; height:300px" src="img/maxalaingradel.png" alt="">
           </a>
           
       </swiper-slide>
 
       <swiper-slide>
           <a href="img/Max-Alain-Gradel.jpg" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
-              <img src="img/Max-Alain-Gradel.jpg" alt="">
+              <img style="max-width: 300px; height:300px" src="img/Max-Alain-Gradel.jpg" alt="">
           </a>
 
       </swiper-slide>
 
       <swiper-slide>
           <a href="img/MaxAlainGRad.jpg" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
-              <img src="img/MaxAlainGRad.jpg" alt="">
+              <img style="max-width: 300px; height:300px" src="img/MaxAlainGRad.jpg" alt="">
           </a>
    
       </swiper-slide>
 
       <swiper-slide>
           <a href="img/GradelElephant.jpg" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
-              <img src="img/GradelElephant.jpg" alt="">
+              <img style="max-width: 300px; height:300px" src="img/GradelElephant.jpg" alt="">
           </a>
 
       </swiper-slide>
 
       <swiper-slide>
           <a href="img/Gradelcoupe.jpg" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
-              <img src="img/Gradelcoupe.jpg" alt="">
+              <img style="max-width: 300px; height:300px"  src="img/Gradelcoupe.jpg" alt="">
           </a>
           </swiper-slide>
 

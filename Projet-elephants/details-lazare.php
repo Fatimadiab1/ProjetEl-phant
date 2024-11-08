@@ -99,42 +99,42 @@ $title = "Les éléphants | Lazare Amani";
         pagination-type="fraction" navigation="true" style="margin-top: 40px;margin-bottom:40px;">
         <swiper-slide>
             <a href="img/lazare_amani.png" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
-                <img src="img/lazare_amani.png" alt="">
+                <img style="max-width: 300px; height:300px"src="img/lazare_amani.png" alt="">
             </a>
 
         </swiper-slide>
 
         <swiper-slide>
             <a href="img/lazare_amani1.jpg" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
-                <img src="img/lazare_amani1.jpg" alt="">
+                <img style="max-width: 300px; height:300px" src="img/lazare_amani1.jpg" alt="">
             </a>
 
         </swiper-slide>
 
         <swiper-slide>
             <a href="img/lazare_amani3.jpg" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
-                <img src="img/lazare_amani3.jpg" alt="">
+                <img style="max-width: 300px; height:300px" src="img/lazare_amani3.jpg" alt="">
             </a>
 
         </swiper-slide>
 
         <swiper-slide>
             <a href="img/lazare_amani5.jpg" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
-                <img src="img/lazare_amani5.jpg" alt="">
+                <img style="max-width: 300px; height:300px" src="img/lazare_amani5.jpg" alt="">
             </a>
 
         </swiper-slide>
 
         <swiper-slide>
             <a href="img/ouss_dio1.png" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
-                <img src="img/ouss_dio1.png" alt="">
+                <img style="max-width: 300px; height:300px" src="img/ouss_dio1.png" alt="">
             </a>
 
         </swiper-slide>
 
         <swiper-slide>
             <a href="img/lazare_amani6.jpg" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
-                <img src="img/lazare_amani6.jpg" alt="">
+                <img style="max-width: 300px; height:300px" src="img/lazare_amani6.jpg" alt="">
             </a>
 
         </swiper-slide>

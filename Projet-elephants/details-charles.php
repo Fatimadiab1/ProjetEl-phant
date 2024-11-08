@@ -101,35 +101,35 @@ $title = "Les éléphants | Charles Folly";
         pagination-type="fraction" navigation="true" style="margin-top: 40px;margin-bottom:40px;">
         <swiper-slide>
             <a href="img/folly1.jpg" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
-                <img src="img/folly1.jpg" alt="">
+                <img style="max-width: 300px; height:300px" src="img/folly1.jpg" alt="">
             </a>
 
         </swiper-slide>
 
         <swiper-slide>
             <a href="img/folly2.webp" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
-                <img src="img/folly2.webp" alt="">
+                <img style="max-width: 300px; height:300px" src="img/folly2.webp" alt="">
             </a>
 
         </swiper-slide>
 
         <swiper-slide>
             <a href="img/folly3.webp" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
-                <img src="img/folly3.webp" alt="">
+                <img style="max-width: 300px; height:300px" src="img/folly3.webp" alt="">
             </a>
 
         </swiper-slide>
 
         <swiper-slide>
             <a href="img/folly4.jpeg" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
-                <img src="img/folly4.jpeg" alt="">
+                <img style="max-width: 300px; height:300px" src="img/folly4.jpeg" alt="">
             </a>
 
         </swiper-slide>
 
         <swiper-slide>
             <a href="img/folly5.jpg" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
-                <img src="img/folly5.jpg" alt="">
+                <img style="max-width: 300px; height:300px" src="img/folly5.jpg" alt="">
             </a>
 
         </swiper-slide>

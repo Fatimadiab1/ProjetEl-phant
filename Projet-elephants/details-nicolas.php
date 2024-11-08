@@ -101,42 +101,42 @@ $title = "Les éléphants | Nicolas PÉPÉ";
         pagination-type="fraction" navigation="true" style="margin-top: 40px;margin-bottom:40px;">
         <swiper-slide>
             <a href="img/pepe5.png" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
-                <img src="img/pepe5.png" alt="">
+                <img style="max-width: 300px; height:300px"  src="img/pepe5.png" alt="">
             </a>
 
         </swiper-slide>
 
         <swiper-slide>
             <a href="img/pepe6.jpg" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
-                <img src="img/pepe6.jpg" alt="">
+                <img style="max-width: 300px; height:300px"  src="img/pepe6.jpg" alt="">
             </a>
 
         </swiper-slide>
 
         <swiper-slide>
             <a href="img/pepe7.png" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
-                <img src="img/pepe7.png" alt="">
+                <img style="max-width: 300px; height:300px"  src="img/pepe7.png" alt="">
             </a>
 
         </swiper-slide>
 
         <swiper-slide>
             <a href="img/pepe8.png" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
-                <img src="img/pepe8.png" alt="">
+                <img style="max-width: 300px; height:300px"  src="img/pepe8.png" alt="">
             </a>
 
         </swiper-slide>
 
         <swiper-slide>
             <a href="img/pepe9.png" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
-                <img src="img/pepe9.png" alt="">
+                <img style="max-width: 300px; height:300px"  src="img/pepe9.png" alt="">
             </a>
 
         </swiper-slide>
 
         <swiper-slide>
             <a href="img/pepe10.png" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
-                <img src="img/pepe10.png" alt="">
+                <img style="max-width: 300px; height:300px"  src="img/pepe10.png" alt="">
             </a>
 
         </swiper-slide>

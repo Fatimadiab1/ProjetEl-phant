@@ -99,42 +99,42 @@ contribuant significativement au succès de l'équipe <br> dans le tournoi.
       pagination-type="fraction" navigation="true" style="margin-top: 40px;margin-bottom:40px;">
       <swiper-slide>
           <a href="img/christiankouame5.jpeg" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
-              <img src="img/christiankouame5.jpeg" alt="">
+              <img style="max-width: 300px; height:300px" src="img/christiankouame5.jpeg" alt="">
           </a>
          
       </swiper-slide>
 
       <swiper-slide>
           <a href="img/christiankouame6.jpg" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
-              <img src="img/christiankouame6.jpg" alt="">
+              <img style="max-width: 300px; height:300px" src="img/christiankouame6.jpg" alt="">
           </a>
           
       </swiper-slide>
 
       <swiper-slide>
           <a href="img/christiankouame7.jpg" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
-              <img src="img/christiankouame7.jpg" alt="">
+              <img style="max-width: 300px; height:300px" src="img/christiankouame7.jpg" alt="">
           </a>
 
       </swiper-slide>
 
       <swiper-slide>
           <a href="img/christiankouame8.jpg" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
-              <img src="img/christiankouame8.jpg" alt="">
+              <img style="max-width: 300px; height:300px" src="img/christiankouame8.jpg" alt="">
           </a>
    
       </swiper-slide>
 
       <swiper-slide>
           <a href="img/christiankouame9.jpg" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
-              <img src="img/christiankouame9.jpg" alt="">
+              <img style="max-width: 300px; height:300px" src="img/christiankouame9.jpg" alt="">
           </a>
 
       </swiper-slide>
 
       <swiper-slide>
           <a href="img/christiankouame10.jpg" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
-              <img src="img/christiankouame10.jpg" alt="">
+              <img style="max-width: 300px; height:300px" src="img/christiankouame10.jpg" alt="">
           </a>
           </swiper-slide>
 

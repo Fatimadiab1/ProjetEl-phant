@@ -99,42 +99,42 @@ en interceptant des passes et en remportant des duels aériens importants. <br>
       pagination-type="fraction" navigation="true" style="margin-top: 40px;margin-bottom:40px;">
       <swiper-slide>
           <a href="img/oumardiakité.png" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
-              <img src="img/oumardiakité.png" alt="">
+              <img style="max-width: 300px; height:300px" src="img/oumardiakité.png" alt="">
           </a>
          
       </swiper-slide>
 
       <swiper-slide>
           <a href="img/oumardiakité3.jpg" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
-              <img src="img/oumardiakité3.jpg" alt="">
+              <img style="max-width: 300px; height:300px"  src="img/oumardiakité3.jpg" alt="">
           </a>
           
       </swiper-slide>
 
       <swiper-slide>
           <a href="img/oumardiakité4.jpg" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
-              <img src="img/oumardiakité4.jpg" alt="">
+              <img style="max-width: 300px; height:300px" src="img/oumardiakité4.jpg" alt="">
           </a>
 
       </swiper-slide>
 
       <swiper-slide>
           <a href="img/oumardiakité5.jpg" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
-              <img src="img/oumardiakité5.jpg" alt="">
+              <img style="max-width: 300px; height:300px"  src="img/oumardiakité5.jpg" alt="">
           </a>
    
       </swiper-slide>
 
       <swiper-slide>
           <a href="img/oumardiakité6.jpeg" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
-              <img src="img/oumardiakité6.jpeg" alt="">
+              <img style="max-width: 300px; height:300px"  src="img/oumardiakité6.jpeg" alt="">
           </a>
 
       </swiper-slide>
 
       <swiper-slide>
           <a href="img/oumardiakité7.jpg" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
-              <img src="img/oumardiakité7.jpg" alt="">
+              <img style="max-width: 300px; height:300px"  src="img/oumardiakité7.jpg" alt="">
           </a>
           </swiper-slide>
 

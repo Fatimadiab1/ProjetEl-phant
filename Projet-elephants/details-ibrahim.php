@@ -100,35 +100,35 @@ ont solidifié le milieu ivoirien, contribuant de manière significative au succ
       pagination-type="fraction" navigation="true" style="margin-top: 40px;margin-bottom:40px;">
       <swiper-slide>
           <a href="img/IBsangar.jpg" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
-              <img src="img/IBsangar.jpg" alt="">
+              <img style="max-width: 300px; height:300px"src="img/IBsangar.jpg" alt="">
           </a>
          
       </swiper-slide>
 
       <swiper-slide>
           <a href="img/IbrahimS.jpg" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
-              <img src="img/IbrahimS.jpg" alt="">
+              <img style="max-width: 300px; height:300px"src="img/IbrahimS.jpg" alt="">
           </a>
           
       </swiper-slide>
 
       <swiper-slide>
           <a href="img/IbrahimEle.jpg" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
-              <img src="img/IbrahimEle.jpg" alt="">
+              <img style="max-width: 300px; height:300px" src="img/IbrahimEle.jpg" alt="">
           </a>
 
       </swiper-slide>
 
       <swiper-slide>
           <a href="img/IbrahimSan.webp" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
-              <img src="img/IbrahimSan.webp" alt="">
+              <img style="max-width: 300px; height:300px" src="img/IbrahimSan.webp" alt="">
           </a>
    
       </swiper-slide>
 
       <swiper-slide>
           <a href="img/Sangare-Ibrahim.jpg" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
-              <img src="img/Sangare-Ibrahim.jpg" alt="">
+              <img style="max-width: 300px; height:300px" src="img/Sangare-Ibrahim.jpg" alt="">
           </a>
 
       </swiper-slide>

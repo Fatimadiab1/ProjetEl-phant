@@ -99,43 +99,43 @@ $title = "Les éléphants | Yahia Fofana";
     <swiper-container class="mySwiper" slides-per-view="3" centered-slides="true" space-between="30" pagination="true"
         pagination-type="fraction" navigation="true" style="margin-top: 40px;margin-bottom:40px;">
         <swiper-slide>
-            <a href="img/yahia1.jpg" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
-                <img src="img/yahia1.jpg" alt="">
+            <a  href="img/yahia1.jpg" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
+                <img style="max-width: 300px; height:300px" src="img/yahia1.jpg" alt="">
             </a>
 
         </swiper-slide>
 
         <swiper-slide>
             <a href="img/yahia2.jpg" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
-                <img src="img/yahia2.jpg" alt="">
+                <img style="max-width: 300px; height:300px"  src="img/yahia2.jpg" alt="">
             </a>
 
         </swiper-slide>
 
         <swiper-slide>
             <a href="img/yahia3.jpeg" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
-                <img src="img/yahia3.jpeg" alt="">
+                <img style="max-width: 300px; height:300px"  src="img/yahia3.jpeg" alt="">
             </a>
 
         </swiper-slide>
 
         <swiper-slide>
             <a href="img/yahia4.jpg" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
-                <img src="img/yahia4.jpg" alt="">
+                <img style="max-width: 300px; height:300px"  src="img/yahia4.jpg" alt="">
             </a>
 
         </swiper-slide>
 
         <swiper-slide>
             <a href="img/yahia5.jpg" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
-                <img src="img/yahia5.jpg" alt="">
+                <img style="max-width: 300px; height:300px"   src="img/yahia5.jpg" alt="">
             </a>
 
         </swiper-slide>
 
         <swiper-slide>
             <a href="img/yahia6.jpg" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
-                <img src="img/yahia6.jpg" alt="">
+                <img style="max-width: 300px; height:300px"   src="img/yahia6.jpg" alt="">
             </a>
 
         </swiper-slide>

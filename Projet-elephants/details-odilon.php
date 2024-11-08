@@ -101,42 +101,42 @@ ont apporté une stabilité précieuse à la défense ivoirienne, contribuant de
       pagination-type="fraction" navigation="true" style="margin-top: 40px;margin-bottom:40px;">
       <swiper-slide>
           <a href="img/OdilonK.jpg" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
-              <img src="img/OdilonK.jpg" alt="">
+              <img style="max-width: 300px; height:300px"  src="img/OdilonK.jpg" alt="">
           </a>
          
       </swiper-slide>
 
       <swiper-slide>
           <a href="img/Kossonoujpg.jpg" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
-              <img src="img/Kossonoujpg.jpg" alt="">
+              <img style="max-width: 300px; height:300px"  src="img/Kossonoujpg.jpg" alt="">
           </a>
           
       </swiper-slide>
 
       <swiper-slide>
           <a href="img/OdilonKoss.jpg" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
-              <img src="img/OdilonKoss.jpg" alt="">
+              <img style="max-width: 300px; height:300px"  src="img/OdilonKoss.jpg" alt="">
           </a>
 
       </swiper-slide>
 
       <swiper-slide>
           <a href="img/KossounouOdilon.webp" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
-              <img src="img/KossounouOdilon.webp" alt="">
+              <img style="max-width: 300px; height:300px"  src="img/KossounouOdilon.webp" alt="">
           </a>
    
       </swiper-slide>
 
       <swiper-slide>
           <a href="img/odilon-kossounou.webp" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
-              <img src="img/odilon-kossounou.webp" alt="">
+              <img style="max-width: 300px; height:300px"  src="img/odilon-kossounou.webp" alt="">
           </a>
 
       </swiper-slide>
 
       <swiper-slide>
           <a href="img/KossouNouO.jpg" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
-              <img src="img/KossouNouO.jpg" alt="">
+              <img style="max-width: 300px; height:300px"  src="img/KossouNouO.jpg" alt="">
           </a>
           </swiper-slide>
 

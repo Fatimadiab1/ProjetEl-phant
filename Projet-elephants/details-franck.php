@@ -101,42 +101,42 @@ ont solidifié le milieu ivoirien, contribuant de manière significative au succ
       pagination-type="fraction" navigation="true" style="margin-top: 40px;margin-bottom:40px;">
       <swiper-slide>
           <a href="img/Kess.jpg" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
-              <img src="img/Kess.jpg" alt="">
+              <img style="max-width: 300px; height:300px" src="img/Kess.jpg" alt="">
           </a>
          
       </swiper-slide>
 
       <swiper-slide>
           <a href="img/KessieCeleb.webp" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
-              <img src="img/KessieCeleb.webp" alt="">
+              <img style="max-width: 300px; height:300px" src="img/KessieCeleb.webp" alt="">
           </a>
           
       </swiper-slide>
 
       <swiper-slide>
           <a href="img/KessieFinal.jpg" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
-              <img src="img/KessieFinal.jpg" alt="">
+              <img style="max-width: 300px; height:300px" src="img/KessieFinal.jpg" alt="">
           </a>
 
       </swiper-slide>
 
       <swiper-slide>
           <a href="img/KE.jpg" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
-              <img src="img/KE.jpg" alt="">
+              <img style="max-width: 300px; height:300px" src="img/KE.jpg" alt="">
           </a>
    
       </swiper-slide>
 
       <swiper-slide>
           <a href="img/Franck-kessie-Cote-dIvoire.webp" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
-              <img src="img/Franck-kessie-Cote-dIvoire.webp" alt="">
+              <img style="max-width: 300px; height:300px" src="img/Franck-kessie-Cote-dIvoire.webp" alt="">
           </a>
 
       </swiper-slide>
 
       <swiper-slide>
           <a href="img/Kessie2023.jpg" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
-              <img src="img/Kessie2023.jpg" alt="">
+              <img style="max-width: 300px; height:300px" src="img/Kessie2023.jpg" alt="">
           </a>
           </swiper-slide>
 

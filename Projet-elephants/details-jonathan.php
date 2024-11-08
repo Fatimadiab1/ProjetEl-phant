@@ -99,42 +99,42 @@ Le 28 décembre 2023, il est retenu dans la liste des vingt-sept <br>joueurs ivo
       pagination-type="fraction" navigation="true" style="margin-top: 40px;margin-bottom:40px;">
       <swiper-slide>
           <a href="img/bamb4.jpg" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
-              <img src="img/bamb4.jpg" alt="">
+              <img style="max-width: 300px; height:300px" src="img/bamb4.jpg" alt="">
           </a>
          
       </swiper-slide>
 
       <swiper-slide>
           <a href="img/bamb6.webp" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
-              <img src="img/bamb6.webp" alt="">
+              <img style="max-width: 300px; height:300px" src="img/bamb6.webp" alt="">
           </a>
           
       </swiper-slide>
 
       <swiper-slide>
           <a href="img/badra3.webp" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
-              <img src="img/bamb3.jpg" alt="">
+              <img style="max-width: 300px; height:300px" src="img/bamb3.jpg" alt="">
           </a>
 
       </swiper-slide>
 
       <swiper-slide>
           <a href="img/bamb5.webp.crdownload" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
-              <img src="img/bamb5.webp.crdownload" alt="">
+              <img style="max-width: 300px; height:300px" src="img/bamb5.webp.crdownload" alt="">
           </a>
    
       </swiper-slide>
 
       <swiper-slide>
           <a href="img/bamba.jpg" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
-              <img src="img/bamba.jpg" alt="">
+              <img style="max-width: 300px; height:300px" src="img/bamba.jpg" alt="">
           </a>
 
       </swiper-slide>
 
       <swiper-slide>
           <a href="img/bamb2.jpg" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
-              <img src="img/bamb2.jpg" alt="">
+              <img style="max-width: 300px; height:300px" src="img/bamb2.jpg" alt="">
           </a>
 
       </swiper-slide>

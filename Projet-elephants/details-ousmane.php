@@ -99,42 +99,42 @@ $title = "Les éléphants | Ousmane Diomande";
       pagination-type="fraction" navigation="true" style="margin-top: 40px;margin-bottom:40px;">
       <swiper-slide>
           <a href="img/ouss_dio4.jpg" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
-              <img src="img/ouss_dio4.jpg" alt="">
+              <img style="max-width: 300px; height:300px"  src="img/ouss_dio4.jpg" alt="">
           </a>
          
       </swiper-slide>
 
       <swiper-slide>
           <a href="img/ouss_dio6.jpg" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
-              <img src="img/ouss_dio6.jpg" alt="">
+              <img style="max-width: 300px; height:300px"  src="img/ouss_dio6.jpg" alt="">
           </a>
           
       </swiper-slide>
 
       <swiper-slide>
           <a href="img/ouss_dio3.png" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
-              <img src="img/ouss_dio3.png" alt="">
+              <img style="max-width: 300px; height:300px"  src="img/ouss_dio3.png" alt="">
           </a>
 
       </swiper-slide>
 
       <swiper-slide>
           <a href="img/ouss_dio1.png" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
-              <img src="img/ouss_dio1.png" alt="">
+              <img style="max-width: 300px; height:300px"  src="img/ouss_dio1.png" alt="">
           </a>
    
       </swiper-slide>
 
       <swiper-slide>
           <a href="img/ouss_dio1.png" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
-              <img src="img/ouss_dio1.png" alt="">
+              <img style="max-width: 300px; height:300px"  src="img/ouss_dio1.png" alt="">
           </a>
 
       </swiper-slide>
 
       <swiper-slide>
           <a href="img/ouss_dio.jpg" data-fancybox = "gallery"data-caption="Can 2023 // Ivoirien">
-              <img src="img/ouss_dio.jpg" alt="">
+              <img style="max-width: 300px; height:300px"  src="img/ouss_dio.jpg" alt="">
           </a>
 
       </swiper-slide>
