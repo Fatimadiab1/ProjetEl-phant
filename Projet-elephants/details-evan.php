@@ -19,7 +19,7 @@ $title = "Les éléphants |Evan N'dicka";
 <div class="firstsection-player">
 
 <div class="picture-player">
-<img class="pic" src="img/ndicka6.jpeg" alt="">
+<img class="pic" src="img/nouveau" alt="">
 </div>
 
 <div class="info-player">

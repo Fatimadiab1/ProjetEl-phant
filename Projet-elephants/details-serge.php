@@ -20,7 +20,7 @@ $title = "Les éléphants | Serge-Aurier";
 <div class="firstsection-player">
 
     <div class="picture-player">
-        <img class="pic" src="img/sergeaurier.jpg" alt="">
+        <img class="pic" src="img/nouveau/aurier.jpg" alt="">
     </div>
 
     <div class="info-player">

@@ -20,7 +20,7 @@ $title = "Les éléphants | Karim-Konate";
 <div class="firstsection-player">
 
     <div class="picture-player">
-        <img class="pic" src="img/karimm_konate.55.jpg" alt="">
+        <img class="pic" src="img/nouveau/konate.jpg" alt="">
     </div>
 
     <div class="info-player">

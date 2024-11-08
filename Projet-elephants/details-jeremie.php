@@ -19,7 +19,7 @@ $title = "Les éléphants | Jeremie boga";
 <div class="firstsection-player">
 
 <div class="picture-player">
-<img class="pic" src="img/bog4.jpg" alt="">
+<img class="pic" src="img/nouveau/boga.jpg" alt="">
 </div>
 
 <div class="info-player">

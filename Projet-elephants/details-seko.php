@@ -19,7 +19,7 @@ $title = "Les éléphants | Seko Fofana";
 <div class="firstsection-player">
 
 <div class="picture-player">
-<img class="pic" src="img/Seko_Fofana.jpg" alt="">
+<img class="pic" src="img/nouveau/seko.jpg" alt="">
 </div>
 
 <div class="info-player">

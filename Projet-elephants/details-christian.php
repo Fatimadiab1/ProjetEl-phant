@@ -19,7 +19,7 @@ $title = "Les éléphants | Christian Kouame";
 <div class="firstsection-player">
 
 <div class="picture-player">
-<img class="pic" src="img/christiankouame4.jpg" alt="">
+<img class="pic" src="img/nouveau/kouame.jpg" alt="">
 </div>
 
 <div class="info-player">

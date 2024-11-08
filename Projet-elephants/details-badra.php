@@ -19,7 +19,7 @@ $title = "Les éléphants | Badra Ali";
 <div class="firstsection-player">
 
     <div class="picture-player">
-        <img class="pic" src="img/badra0.jpg" alt="">
+        <img class="pic" src="img/nouveau/badra.jpg" alt="">
     </div>
 
     <div class="info-player">

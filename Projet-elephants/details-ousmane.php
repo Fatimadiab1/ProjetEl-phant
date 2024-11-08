@@ -19,7 +19,7 @@ $title = "Les éléphants | Ousmane Diomande";
 <div class="firstsection-player">
 
 <div class="picture-player">
-<img class="pic" src="img/ouss_dio.jpg" alt="">
+<img class="pic" src="img/nouveau/ous.jpg" alt="">
 </div>
 
 <div class="info-player">

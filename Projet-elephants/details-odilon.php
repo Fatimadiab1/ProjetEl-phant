@@ -19,7 +19,7 @@ $title = "Les éléphants | Odilon Kossounou";
 <div class="firstsection-player">
 
 <div class="picture-player">
-<img class="pic" src="img/Kossounou.jpeg" alt="">
+<img class="pic" src="img/nouveau/kossonou.jpg" alt="">
 </div>
 
 <div class="info-player">

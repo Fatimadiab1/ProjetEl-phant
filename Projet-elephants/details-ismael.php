@@ -19,7 +19,7 @@ $title = "Les éléphants | Ismael Diallo";
 <div class="firstsection-player">
 
     <div class="picture-player">
-        <img class="pic" src="img/diallo.jpg" alt="">
+        <img class="pic" src="img/nouveau/ismael.jpg" alt="">
     </div>
 
     <div class="info-player">

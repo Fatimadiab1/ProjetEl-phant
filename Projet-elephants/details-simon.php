@@ -19,7 +19,7 @@ $title = "Les éléphants | Simon-Adingra";
 <div class="firstsection-player">
 
     <div class="picture-player">
-        <img class="pic" src="img/ADINGRA_SIMON_7.jpg.jpg" alt="">
+        <img class="pic" src="img/nouveau/adingra.jpg" alt="">
     </div>
 
     <div class="info-player">
