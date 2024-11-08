@@ -160,6 +160,13 @@ $title = "Les éléphants | joueurs";
 #backToTopBtn.hide {
     animation: fadeOut 0.5s;
 }
+.card li a {
+  text-decoration: none;
+  color: orangered;
+}
+.card li a:hover{
+  color: gray;
+}
 </style>
 
 
@@ -175,14 +182,14 @@ $title = "Les éléphants | joueurs";
 			<div class="accordion accordion-flush" id="accordionFlushExample">
 				<div class="accordion-item">
 					<h4 class="accordion-header">
-						<button class="accordion-button collapsed btn btn-danger" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseOne" aria-expanded="false" aria-controls="flush-collapseOne">
+						<button class="accordion-button collapsed btn btn-danger " type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseOne" aria-expanded="false" aria-controls="flush-collapseOne" style="background-color: orangered; color:white ">
 							ATTAQUANTS
 						</button>
 					</h4>
 					<div id="flush-collapseOne" class="accordion-collapse collapse" data-bs-parent="#accordionFlushExample">
 						<div class="accordion-body">
 							<div class="card card-body mb-3">
-								<ul class="list-unstyled text-center" style="color: orangered;">
+								<ul class="list-unstyled text-center" >
 									<li><a href="details-sebastien.php">S.HALLER</a></li>
 									<li><a href="details-jeanphilippe.php">J.KRASSO</a></li>
 									<li><a href="details-simon.php">S.ADINGRA</a></li>
@@ -204,7 +211,7 @@ $title = "Les éléphants | joueurs";
 			<div class="accordion accordion-flush" id="accordionFlushExampleTwo">
 				<div class="accordion-item">
 					<h4 class="accordion-header">
-						<button class="accordion-button collapsed btn btn-danger" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseTwo" aria-expanded="false" aria-controls="flush-collapseTwo">
+						<button class="accordion-button collapsed btn btn-danger" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseTwo" aria-expanded="false" aria-controls="flush-collapseTwo" style="background-color: orangered; color:white ;text-align:center">
 							MILIEUX
 						</button>
 					</h4>
@@ -229,7 +236,7 @@ $title = "Les éléphants | joueurs";
 			<div class="accordion accordion-flush" id="accordionFlushExampleThree">
 				<div class="accordion-item">
 					<h4 class="accordion-header">
-						<button class="accordion-button collapsed btn btn-danger" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseThree" aria-expanded="false" aria-controls="flush-collapseThree">
+						<button class="accordion-button collapsed btn btn-danger" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseThree" aria-expanded="false" aria-controls="flush-collapseThree" style="background-color: orangered; color:white ;text-align:center">
 							DÉFENSEURS
 						</button>
 					</h4>
@@ -256,7 +263,7 @@ $title = "Les éléphants | joueurs";
 			<div class="accordion accordion-flush" id="accordionFlushExampleFour">
 				<div class="accordion-item">
 					<h4 class="accordion-header">
-						<button class="accordion-button collapsed btn btn-danger" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseFour" aria-expanded="false" aria-controls="flush-collapseFour">
+						<button class="accordion-button collapsed btn btn-danger" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseFour" aria-expanded="false" aria-controls="flush-collapseFour" style="background-color: orangered; color:white ;text-align:center">
 							GARDIENS
 						</button>
 					</h4>
