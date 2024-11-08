@@ -19,7 +19,7 @@ $title = "Les éléphants | Yahia Fofana";
 <div class="firstsection-player">
 
     <div class="picture-player">
-        <img class="pic" src="img/nouveau/" alt="">
+        <img class="pic" src="img/nouveau/yahia.jpg" alt="">
     </div>
     <div class="info-player">
         <h2 class="name">Yahia <br> FOFANA</h2>
