@@ -31,7 +31,7 @@ $title = "Les éléphants | Ghislain Konan";
      Konan, né le 27 décembre 1995 à Abidjan en Côte d'Ivoire,
    <br>
     est un footballeur international ivoirien qui 
-    évolue au poste <br> d'arrière gauche à Al-Fayha FC, en prêt d'Al-Nassr FC
+    évolue au poste <br> d'arrière gauche à Al-Fayha FC, en prêt d'Al-Nassr FC.
     
     .</p>
 <p class="description">

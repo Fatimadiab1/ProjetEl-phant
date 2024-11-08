@@ -226,6 +226,7 @@ span{
     overflow: hidden; /* Masque les débordements */
     display: flex; /* Aligne l'image et le contenu de la carte */
     flex-direction: row;
+    cursor: pointer;
 }
 
 .card .row {
@@ -267,9 +268,9 @@ span{
 }
 
 /* Responsive : tout en colonne et disparition du chiffre */
-@media (max-width: 868px) {
+@media (max-width: 768px) {
     #contenu {
-        height: auto;
+        height: 100vh;
         padding: 20px;
     }
 
@@ -295,9 +296,11 @@ span{
     }
 
     .card {
-        width: 90%; /* Réduit la taille de chaque carte */
-        max-width: 300px; /* Limite la largeur max pour les petits écrans */
+        display: none;
+        width: 70%; /* Réduit la taille de chaque carte */
+        max-width: 166px; /* Limite la largeur max pour les petits écrans */
         margin: 10px 0; /* Ajoute un espace entre les cartes */
+        height: 253px;
     }
 
     /* Image de Kessié en colonne */
@@ -306,23 +309,62 @@ span{
         margin: 0 auto 20px auto;
     }
     .col h3 {
-        width: 20vw;
+        width: 30vw;
         background-color: rgb(9, 55, 9);
         text-align: center;
     }
     .col h1{
-        font-size: 40px;
+        font-size: 59px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 50px;
     }
     #contenu {
         position: relative; /* Assure que ::before est limité à #contenu */
-        height: 47vh;
+        height: 50vh;
         background-image: url(../img/Franck\ kessie\ site\ web1.png);
         background-repeat: no-repeat;
         background-position: center;
         background-size: cover;
         overflow: hidden; /* Utile pour couper tout débordement, mais peut être supprimé pour tests */
     }
+    .colonne2{
+        display: none;
+    }
+    .chiffre{
+        display: none;
+    }    
+    .drapci{
+        display: none;
+    }
+    .card-body{
+        display: flex;
+        flex-direction: column;
+    }
+    .card img {
+        width: 100%; /* L'image occupe toute la largeur de sa colonne */
+        height: 100%; /* L'image remplit la hauteur de sa colonne */
+        object-fit: cover; /* Assure que l'image couvre l'espace sans déformation */
+        display: block; /* Enlève les marges internes */
+    }
+  
     
+}
+@media (max-width: 1265px) {
+    .colonne2{
+        display: none;
+    }
+    .chiffre{
+        display: none;
+    }    
+    .drapci{
+        display: none;
+    }
+    .col h3{
+        width: 31vw;
+        text-align: center;
+    }
 }
 
 
@@ -365,7 +407,7 @@ span{
 }
 @media only screen and (max-width: 800px){
     .apropos {
-        margin-top: -254px;
+        margin-top: 20px;
         background-color: #04340E;
         padding: 30px;
         font-family: Montserrat,sans-serif;
