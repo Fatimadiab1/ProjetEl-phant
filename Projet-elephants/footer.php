@@ -10,6 +10,7 @@
           <li><a href="#">Club</a></li>
           <li><a href="#">Fondation</a></li>
           <li><a href="#">Partenaires</a></li>
+          <li><a href="staff-technique.php">Staff Technique</a></li>
         </ul>
       </div>
       <div class="col-lg col">
