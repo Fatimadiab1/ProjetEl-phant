@@ -19,7 +19,7 @@ $title = "Les éléphants | Max-Alain Gradel";
 <div class="firstsection-player">
 
 <div class="picture-player">
-<img class="pic" src="img/Max_Gradel_9292.jpeg" alt="">
+<img class="pic" src="img/nouveau/max.jpg" alt="">
 </div>
 
 <div class="info-player">

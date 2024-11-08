@@ -20,7 +20,7 @@ $title = "Les éléphants |wilfried Singo";
 <div class="firstsection-player">
 
 <div class="picture-player">
-<img class="pic" src="img/singo7.webp" alt="">
+<img class="pic" src="img/nouveau/singo.jpg" alt="">
 </div>
 
 <div class="info-player">

@@ -19,7 +19,7 @@ $title = "Les éléphants | Oumar Diakité";
 <div class="firstsection-player">
 
 <div class="picture-player">
-<img class="pic" src="img/oumardiakité1.jpg" alt="">
+<img class="pic" src="img/nouveau/oumar.jpg" alt="">
 </div>
 
 <div class="info-player">

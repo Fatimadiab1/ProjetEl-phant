@@ -20,7 +20,7 @@ $title = "Les éléphants | Ghislain Konan";
 <div class="firstsection-player">
 
 <div class="picture-player">
-<img class="pic" src="img/konan1.jpeg" alt="">
+<img class="pic" src="img/nouveau/konan.jpg" alt="">
 </div>
 
 <div class="info-player">

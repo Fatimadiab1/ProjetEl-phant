@@ -19,7 +19,7 @@ $title = "Les éléphants | Charles Folly";
 <div class="firstsection-player">
 
     <div class="picture-player">
-        <img class="pic" src="img/folly0.jpeg" alt="">
+        <img class="pic" src="img/nouveau/folly.jpg" alt="">
     </div>
 
     <div class="info-player">

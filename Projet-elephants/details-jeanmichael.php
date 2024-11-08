@@ -18,7 +18,7 @@
 <div class="firstsection-player">
 
     <div class="picture-player">
-        <img class="pic" src="img/seri7.jpeg" alt="">
+        <img class="pic" src="img/nouveau/seri.jpg" alt="">
     </div>
 
     <div class="info-player">

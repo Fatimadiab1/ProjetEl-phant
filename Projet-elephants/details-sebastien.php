@@ -19,7 +19,7 @@ $title = "Les éléphants | Sébastien HALLER";
 <div class="firstsection-player">
 
     <div class="picture-player">
-        <img class="pic" src="img/Haller4.jpg" alt="">
+        <img class="pic" src="img/nouveau/haller.jpg" alt="">
     </div>
 
     <div class="info-player">

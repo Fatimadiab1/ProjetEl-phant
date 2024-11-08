@@ -19,7 +19,7 @@ $title = "Les éléphants | Nicolas PÉPÉ";
 <div class="firstsection-player">
 
     <div class="picture-player">
-        <img class="pic" src="img/pepe1.png" alt="">
+        <img class="pic" src="img/nouveau/pepe.jpg" alt="">
     </div>
 
     <div class="info-player">

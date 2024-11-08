@@ -19,7 +19,7 @@ $title = "Les éléphants | Franck Kessié";
 <div class="firstsection-player">
 
 <div class="picture-player">
-<img class="pic" src="img/KessManjpg.jpg" alt="">
+<img class="pic" src="img/nouveau/kessie.jpg" alt="">
 </div>
 
 <div class="info-player">

@@ -20,7 +20,7 @@ $title = "Les éléphants | Jean Philippe KRASSO";
 <div class="firstsection-player">
 
     <div class="picture-player">
-        <img class="pic" src="img/krasso1.jpg" alt="">
+        <img class="pic" src="img/nouveau/krasso.jpg" alt="">
     </div>
 
     <div class="info-player">

@@ -22,7 +22,7 @@ $title = "Les éléphants | jonathan bamba";
 <div class="firstsection-player">
 
 <div class="picture-player">
-<img class="pic" src="img/bamb3.jpg   " alt="">
+<img class="pic" src="img/nouveau/bamba.jpg" alt="">
 </div>
 
 <div class="info-player">
