@@ -63,8 +63,6 @@ span{
 .link ul li a:hover{
     color: rgb(255, 255, 255);
     background-color: #376a03;
-    padding-left: 25px;
-    padding-right: 25px;
     transition:0.5s;
 }
 

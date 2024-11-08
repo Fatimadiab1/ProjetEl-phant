@@ -26,7 +26,7 @@
 </div>
 
 <style>
-
+ 
 .nav {
   display: flex;
   justify-content: space-between;
