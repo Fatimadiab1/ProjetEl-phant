@@ -78,6 +78,7 @@
     border-radius: 0 0 5px 5px;
     box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2); 
     transition: all 0.3s ease;
+    z-index: 293;
   }
 
   .link ul.show {
