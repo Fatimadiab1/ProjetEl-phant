@@ -18,5 +18,5 @@ $title = "Les éléphants | Accueil";
 include 'accueil-carousel.php'
 ?>
 
-
 <?php include 'footer.php' ?>
+

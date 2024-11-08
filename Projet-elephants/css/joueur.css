@@ -25,14 +25,19 @@
 .titre-position {
     font-family: "Montserrat", sans-serif;
     font-weight: 900;
-    color: orangered;
+    color:orangered;
 }
+
+
 
 /* Première section */
-.pic {
-    width: 320px;
-}
 
+  .pic {
+    width:320px;
+    height: 100%;
+    
+  }
+  
 .info-player {
     padding-top: 3px; 
 }
