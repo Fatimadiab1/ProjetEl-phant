@@ -49,7 +49,7 @@ body {
 .text-container {
     background-color: #FFFFFF; 
     padding: 20px;
-    color: #FF3E00; 
+    color: black; 
     font-size: 1rem;
     line-height: 1.6;
     text-align: left;
