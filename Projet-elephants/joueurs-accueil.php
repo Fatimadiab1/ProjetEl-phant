@@ -167,6 +167,9 @@ $title = "Les éléphants | joueurs";
 .card li a:hover{
   color: gray;
 }
+.terrain a{
+  color:white
+}
 </style>
 
 
