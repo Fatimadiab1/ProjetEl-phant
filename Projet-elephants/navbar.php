@@ -6,7 +6,7 @@
     <span>
       <h2 style="color: white">CÔTE D'IVOIRE</h2>
       <h4 class="elephants-title">Les Éléphants</h4>
-    </span>
+    </span> 
   </div>
   <div class="bb"></div>
 
@@ -32,6 +32,7 @@
   justify-content: space-between;
   align-items: center;
   padding: 10px;
+  flex-wrap: nowrap;
   background-color: orangered;
   position: relative;
 }
@@ -39,6 +40,7 @@
 .image {
   display: flex;
   align-items: center;
+  white-space: nowrap;
 }
 
 .elephants-title {
@@ -48,13 +50,18 @@
   text-shadow: 1px 1px 0 white, -1px -1px 0 white, 1px -1px 0 white, -1px 1px 0 white;
 }
 
+.link{
+  white-space: nowrap;
+}
 
 .link ul {
   list-style: none;
   display: flex;
   gap: 15px;
   margin: 0;
+  flex-wrap: nowrap;
 }
+
 
 .hamburger {
   display: none;
@@ -64,8 +71,16 @@
   color: white;
   cursor: pointer;
 }
+@media (max-width:1100px){
 
-@media (max-width: 768px) {
+  .link ul li a {
+  font-size:17px;
+  }
+  .link ul li  {
+  padding:10px 1px;
+  }
+}
+@media (max-width:810px) {
   .link ul {
     display: none;
     flex-direction: column;
@@ -87,12 +102,6 @@
 
   .link ul li {
     padding: 10px 0;
-  }
-
-  .link ul li a {
-    color: white;
-    text-decoration: none;
-    font-size: 18px;
   }
 
   .hamburger {
